@@ -1,0 +1,1216 @@
+ticket_id,fecha,hora,servicio,camarero,productos,cantidades,total_ticket
+1,2025-06-01,08:00,mesa,Camarero_4,Jugo,1,800
+2,2025-06-01,08:00,mesa,Camarero_1,"Café Espresso, Jugo, Tostado","3, 2, 1",5000
+3,2025-06-01,08:00,mesa,Camarero_1,Latte,3,2850
+4,2025-06-01,08:00,mesa,Camarero_3,"Medialuna, Tostado, Latte","3, 2, 1",5050
+5,2025-06-01,08:00,take_away,Camarero_2,"Latte, Latte","2, 1",2850
+6,2025-06-01,08:00,take_away,Camarero_5,Cappuccino,2,2000
+7,2025-06-01,08:00,mesa,Camarero_6,"Tostado, Café Espresso, Agua","1, 3, 2",4600
+8,2025-06-01,08:00,mesa,Camarero_7,"Café Espresso, Medialuna, Jugo","1, 1, 1",2000
+9,2025-06-01,08:00,take_away,Camarero_4,"Medialuna, Cappuccino","2, 2",3000
+10,2025-06-01,08:00,take_away,Camarero_4,"Agua, Medialuna, Medialuna","1, 3, 3",3600
+11,2025-06-01,08:00,mesa,Camarero_4,"Cappuccino, Agua","3, 3",4800
+12,2025-06-01,08:00,take_away,Camarero_6,Latte,1,950
+13,2025-06-01,08:00,take_away,Camarero_6,"Café Espresso, Agua","3, 3",3900
+14,2025-06-01,08:00,mesa,Camarero_4,"Tostado, Agua, Medialuna","1, 2, 1",3000
+15,2025-06-01,08:00,take_away,Camarero_8,"Medialuna, Agua, Cappuccino","1, 1, 3",4100
+16,2025-06-01,12:00,mesa,Camarero_7,Latte,1,950
+17,2025-06-01,12:00,mesa,Camarero_1,"Cappuccino, Agua","3, 2",4200
+18,2025-06-01,12:00,mesa,Camarero_7,"Agua, Jugo, Jugo","2, 1, 2",3600
+19,2025-06-01,12:00,mesa,Camarero_3,"Café Espresso, Jugo","3, 2",3700
+20,2025-06-01,12:00,mesa,Camarero_1,"Cappuccino, Medialuna, Medialuna","1, 2, 1",2500
+21,2025-06-01,12:00,take_away,Camarero_1,"Café Espresso, Agua","2, 1",2000
+22,2025-06-01,16:00,mesa,Camarero_3,Jugo,1,800
+23,2025-06-01,16:00,mesa,Camarero_4,"Tostado, Tostado, Latte","3, 2, 1",7450
+24,2025-06-01,16:00,take_away,Camarero_8,"Agua, Medialuna","2, 3",2700
+25,2025-06-01,16:00,mesa,Camarero_1,Latte,2,1900
+26,2025-06-01,16:00,mesa,Camarero_6,"Latte, Café Espresso, Medialuna","1, 1, 1",2150
+27,2025-06-01,16:00,mesa,Camarero_8,"Latte, Medialuna, Latte","1, 3, 3",5300
+28,2025-06-01,16:00,mesa,Camarero_7,"Jugo, Latte","1, 3",3650
+29,2025-06-01,16:00,take_away,Camarero_2,"Cappuccino, Agua","1, 3",2800
+30,2025-06-01,20:00,take_away,Camarero_3,"Cappuccino, Agua, Latte","1, 3, 2",4700
+31,2025-06-01,20:00,take_away,Camarero_2,Latte,1,950
+32,2025-06-01,20:00,take_away,Camarero_3,"Café Espresso, Medialuna, Tostado","1, 1, 1",2500
+33,2025-06-01,20:00,take_away,Camarero_7,"Tostado, Agua","1, 1",1900
+34,2025-06-01,20:00,mesa,Camarero_7,"Latte, Jugo","2, 2",3500
+35,2025-06-02,08:00,take_away,Camarero_1,Latte,1,950
+36,2025-06-02,08:00,mesa,Camarero_2,"Cappuccino, Café Espresso, Tostado","3, 1, 1",5000
+37,2025-06-02,08:00,mesa,Camarero_4,Medialuna,3,1500
+38,2025-06-02,08:00,take_away,Camarero_4,Agua,3,1800
+39,2025-06-02,08:00,mesa,Camarero_6,"Café Espresso, Medialuna, Tostado","2, 2, 1",3700
+40,2025-06-02,08:00,mesa,Camarero_6,"Cappuccino, Medialuna","2, 2",3000
+41,2025-06-02,08:00,mesa,Camarero_2,Tostado,3,3900
+42,2025-06-02,08:00,mesa,Camarero_5,"Latte, Latte, Agua","1, 1, 2",3100
+43,2025-06-02,08:00,mesa,Camarero_1,"Jugo, Medialuna","3, 3",3900
+44,2025-06-02,08:00,take_away,Camarero_3,"Café Espresso, Agua, Latte","1, 3, 3",5350
+45,2025-06-02,08:00,take_away,Camarero_5,"Medialuna, Jugo","1, 3",2900
+46,2025-06-02,08:00,take_away,Camarero_7,"Agua, Jugo","1, 3",3000
+47,2025-06-02,08:00,take_away,Camarero_5,Café Espresso,1,700
+48,2025-06-02,12:00,take_away,Camarero_1,"Medialuna, Tostado, Café Espresso","3, 1, 3",4900
+49,2025-06-02,12:00,take_away,Camarero_4,"Tostado, Tostado, Café Espresso","2, 1, 2",5300
+50,2025-06-02,12:00,mesa,Camarero_3,"Café Espresso, Jugo, Agua","2, 3, 3",5600
+51,2025-06-02,12:00,mesa,Camarero_7,Agua,1,600
+52,2025-06-02,12:00,mesa,Camarero_7,Jugo,2,1600
+53,2025-06-02,12:00,mesa,Camarero_8,"Latte, Medialuna","2, 1",2400
+54,2025-06-02,12:00,mesa,Camarero_6,Jugo,2,1600
+55,2025-06-02,16:00,mesa,Camarero_7,Café Espresso,1,700
+56,2025-06-02,16:00,take_away,Camarero_7,"Agua, Agua","2, 2",2400
+57,2025-06-02,16:00,take_away,Camarero_3,Café Espresso,2,1400
+58,2025-06-02,16:00,take_away,Camarero_6,Café Espresso,2,1400
+59,2025-06-02,16:00,take_away,Camarero_4,"Medialuna, Tostado","2, 3",4900
+60,2025-06-02,16:00,take_away,Camarero_4,Medialuna,1,500
+61,2025-06-02,16:00,take_away,Camarero_6,"Café Espresso, Medialuna","2, 3",2900
+62,2025-06-02,16:00,mesa,Camarero_5,"Agua, Tostado, Medialuna","2, 2, 3",5300
+63,2025-06-02,16:00,mesa,Camarero_3,Cappuccino,2,2000
+64,2025-06-02,20:00,take_away,Camarero_7,"Tostado, Café Espresso","2, 1",3300
+65,2025-06-02,20:00,take_away,Camarero_3,"Tostado, Medialuna","3, 2",4900
+66,2025-06-02,20:00,mesa,Camarero_4,"Tostado, Medialuna","2, 1",3100
+67,2025-06-02,20:00,take_away,Camarero_1,Jugo,1,800
+68,2025-06-02,20:00,mesa,Camarero_2,Agua,3,1800
+69,2025-06-02,20:00,take_away,Camarero_7,"Agua, Medialuna","3, 3",3300
+70,2025-06-02,20:00,take_away,Camarero_7,"Latte, Medialuna","1, 1",1450
+71,2025-06-02,20:00,mesa,Camarero_8,Jugo,3,2400
+72,2025-06-02,20:00,mesa,Camarero_6,"Latte, Jugo, Tostado","2, 3, 3",8200
+73,2025-06-02,20:00,take_away,Camarero_8,"Jugo, Agua, Cappuccino","3, 2, 1",4600
+74,2025-06-02,20:00,take_away,Camarero_8,"Jugo, Jugo","2, 3",4000
+75,2025-06-02,20:00,mesa,Camarero_6,"Tostado, Medialuna","1, 2",2300
+76,2025-06-02,20:00,take_away,Camarero_2,"Café Espresso, Latte, Cappuccino","1, 3, 1",4550
+77,2025-06-02,20:00,take_away,Camarero_7,"Cappuccino, Tostado","1, 1",2300
+78,2025-06-03,08:00,mesa,Camarero_4,"Cappuccino, Café Espresso, Cappuccino","2, 2, 3",6400
+79,2025-06-03,08:00,take_away,Camarero_1,Latte,2,1900
+80,2025-06-03,08:00,take_away,Camarero_8,"Medialuna, Jugo","3, 1",2300
+81,2025-06-03,08:00,mesa,Camarero_7,"Tostado, Agua, Medialuna","3, 1, 1",5000
+82,2025-06-03,08:00,mesa,Camarero_8,"Latte, Latte","2, 1",2850
+83,2025-06-03,08:00,take_away,Camarero_2,"Jugo, Cappuccino","2, 2",3600
+84,2025-06-03,08:00,take_away,Camarero_6,Jugo,1,800
+85,2025-06-03,08:00,mesa,Camarero_1,"Café Espresso, Agua, Café Espresso","1, 1, 1",2000
+86,2025-06-03,08:00,mesa,Camarero_2,Café Espresso,3,2100
+87,2025-06-03,08:00,mesa,Camarero_2,"Medialuna, Jugo","1, 3",2900
+88,2025-06-03,08:00,mesa,Camarero_7,"Café Espresso, Café Espresso","2, 3",3500
+89,2025-06-03,12:00,mesa,Camarero_4,Medialuna,3,1500
+90,2025-06-03,12:00,mesa,Camarero_6,"Jugo, Jugo, Medialuna","1, 3, 1",3700
+91,2025-06-03,12:00,take_away,Camarero_7,"Cappuccino, Tostado, Cappuccino","2, 2, 1",5600
+92,2025-06-03,12:00,take_away,Camarero_5,"Agua, Tostado, Latte","1, 3, 3",7350
+93,2025-06-03,12:00,take_away,Camarero_4,"Tostado, Jugo","2, 2",4200
+94,2025-06-03,12:00,mesa,Camarero_7,"Agua, Latte","2, 3",4050
+95,2025-06-03,12:00,take_away,Camarero_3,Tostado,2,2600
+96,2025-06-03,12:00,take_away,Camarero_6,Cappuccino,2,2000
+97,2025-06-03,12:00,take_away,Camarero_7,"Medialuna, Latte, Café Espresso","1, 1, 1",2150
+98,2025-06-03,12:00,take_away,Camarero_2,"Jugo, Medialuna, Medialuna","2, 2, 1",3100
+99,2025-06-03,12:00,take_away,Camarero_5,Cappuccino,1,1000
+100,2025-06-03,16:00,take_away,Camarero_6,"Tostado, Cappuccino","3, 3",6900
+101,2025-06-03,16:00,take_away,Camarero_2,"Tostado, Cappuccino, Latte","3, 1, 2",6800
+102,2025-06-03,16:00,mesa,Camarero_5,Latte,2,1900
+103,2025-06-03,16:00,take_away,Camarero_4,Jugo,2,1600
+104,2025-06-03,16:00,take_away,Camarero_3,Cappuccino,3,3000
+105,2025-06-03,16:00,take_away,Camarero_5,Agua,3,1800
+106,2025-06-03,16:00,mesa,Camarero_8,"Agua, Tostado, Agua","3, 2, 2",5600
+107,2025-06-03,16:00,take_away,Camarero_2,"Latte, Café Espresso","2, 1",2600
+108,2025-06-03,16:00,take_away,Camarero_3,"Café Espresso, Medialuna","1, 1",1200
+109,2025-06-03,16:00,take_away,Camarero_7,Agua,1,600
+110,2025-06-03,16:00,mesa,Camarero_1,"Cappuccino, Agua, Cappuccino","3, 2, 2",6200
+111,2025-06-03,16:00,mesa,Camarero_2,Medialuna,2,1000
+112,2025-06-03,16:00,mesa,Camarero_3,Latte,1,950
+113,2025-06-03,16:00,mesa,Camarero_4,"Tostado, Medialuna","2, 1",3100
+114,2025-06-03,16:00,take_away,Camarero_4,"Latte, Agua, Café Espresso","1, 2, 3",4250
+115,2025-06-03,20:00,mesa,Camarero_3,"Latte, Latte, Latte","1, 1, 1",2850
+116,2025-06-03,20:00,take_away,Camarero_5,"Jugo, Tostado, Cappuccino","1, 2, 3",6400
+117,2025-06-03,20:00,take_away,Camarero_1,"Tostado, Tostado","1, 3",5200
+118,2025-06-03,20:00,take_away,Camarero_1,"Cappuccino, Latte, Café Espresso","3, 3, 3",7950
+119,2025-06-03,20:00,take_away,Camarero_3,"Café Espresso, Jugo, Tostado","3, 2, 2",6300
+120,2025-06-03,20:00,take_away,Camarero_2,"Jugo, Agua, Tostado","2, 2, 2",5400
+121,2025-06-03,20:00,mesa,Camarero_1,"Cappuccino, Tostado","3, 2",5600
+122,2025-06-03,20:00,take_away,Camarero_2,Cappuccino,2,2000
+123,2025-06-03,20:00,take_away,Camarero_4,"Jugo, Café Espresso, Agua","2, 2, 1",3600
+124,2025-06-03,20:00,take_away,Camarero_3,"Jugo, Medialuna, Jugo","1, 2, 3",4200
+125,2025-06-03,20:00,take_away,Camarero_4,"Agua, Tostado","1, 3",4500
+126,2025-06-04,08:00,take_away,Camarero_3,"Café Espresso, Cappuccino, Latte","1, 2, 1",3650
+127,2025-06-04,08:00,take_away,Camarero_8,"Cappuccino, Medialuna, Cappuccino","2, 2, 1",4000
+128,2025-06-04,08:00,mesa,Camarero_2,"Latte, Medialuna","3, 1",3350
+129,2025-06-04,08:00,take_away,Camarero_5,"Cappuccino, Jugo","2, 1",2800
+130,2025-06-04,08:00,take_away,Camarero_6,"Medialuna, Medialuna, Agua","2, 3, 2",3700
+131,2025-06-04,08:00,take_away,Camarero_7,"Jugo, Cappuccino, Agua","1, 3, 1",4400
+132,2025-06-04,08:00,mesa,Camarero_7,"Café Espresso, Jugo","3, 2",3700
+133,2025-06-04,12:00,mesa,Camarero_2,"Agua, Café Espresso","3, 2",3200
+134,2025-06-04,12:00,take_away,Camarero_1,Tostado,2,2600
+135,2025-06-04,12:00,mesa,Camarero_5,"Agua, Agua","1, 2",1800
+136,2025-06-04,12:00,take_away,Camarero_6,"Medialuna, Medialuna, Jugo","3, 3, 2",4600
+137,2025-06-04,12:00,take_away,Camarero_2,"Café Espresso, Café Espresso, Medialuna","2, 1, 3",3600
+138,2025-06-04,12:00,take_away,Camarero_2,Jugo,3,2400
+139,2025-06-04,12:00,take_away,Camarero_1,Medialuna,1,500
+140,2025-06-04,12:00,take_away,Camarero_7,Cappuccino,2,2000
+141,2025-06-04,12:00,mesa,Camarero_3,Tostado,3,3900
+142,2025-06-04,12:00,mesa,Camarero_4,Café Espresso,2,1400
+143,2025-06-04,12:00,take_away,Camarero_8,"Latte, Tostado, Latte","2, 3, 1",6750
+144,2025-06-04,12:00,take_away,Camarero_7,"Tostado, Café Espresso, Agua","3, 2, 3",7100
+145,2025-06-04,12:00,take_away,Camarero_2,"Jugo, Latte","2, 2",3500
+146,2025-06-04,12:00,mesa,Camarero_1,"Medialuna, Medialuna","3, 2",2500
+147,2025-06-04,12:00,take_away,Camarero_8,"Café Espresso, Agua","3, 1",2700
+148,2025-06-04,16:00,mesa,Camarero_3,"Jugo, Latte, Latte","2, 3, 3",7300
+149,2025-06-04,16:00,mesa,Camarero_3,"Medialuna, Cappuccino, Tostado","3, 2, 3",7400
+150,2025-06-04,16:00,mesa,Camarero_6,"Cappuccino, Cappuccino","1, 1",2000
+151,2025-06-04,16:00,take_away,Camarero_5,Latte,2,1900
+152,2025-06-04,16:00,take_away,Camarero_3,Tostado,1,1300
+153,2025-06-04,16:00,mesa,Camarero_7,"Jugo, Agua, Agua","3, 2, 1",4200
+154,2025-06-04,16:00,mesa,Camarero_5,"Tostado, Tostado","3, 3",7800
+155,2025-06-04,16:00,take_away,Camarero_6,"Agua, Café Espresso, Latte","1, 3, 3",5550
+156,2025-06-04,16:00,mesa,Camarero_2,"Café Espresso, Jugo, Agua","2, 3, 2",5000
+157,2025-06-04,20:00,mesa,Camarero_2,Cappuccino,2,2000
+158,2025-06-04,20:00,mesa,Camarero_7,Agua,1,600
+159,2025-06-04,20:00,take_away,Camarero_3,"Medialuna, Jugo","3, 2",3100
+160,2025-06-04,20:00,take_away,Camarero_6,"Café Espresso, Tostado, Cappuccino","2, 1, 3",5700
+161,2025-06-04,20:00,mesa,Camarero_6,"Tostado, Latte","2, 1",3550
+162,2025-06-04,20:00,take_away,Camarero_2,Cappuccino,1,1000
+163,2025-06-04,20:00,take_away,Camarero_1,Medialuna,3,1500
+164,2025-06-05,08:00,take_away,Camarero_4,Agua,3,1800
+165,2025-06-05,08:00,mesa,Camarero_1,"Latte, Latte, Agua","2, 1, 3",4650
+166,2025-06-05,08:00,take_away,Camarero_5,Agua,3,1800
+167,2025-06-05,08:00,mesa,Camarero_3,Medialuna,1,500
+168,2025-06-05,08:00,mesa,Camarero_3,"Jugo, Latte","2, 1",2550
+169,2025-06-05,12:00,mesa,Camarero_2,Jugo,3,2400
+170,2025-06-05,12:00,mesa,Camarero_8,"Tostado, Cappuccino","3, 1",4900
+171,2025-06-05,12:00,mesa,Camarero_1,"Café Espresso, Jugo, Agua","3, 2, 2",4900
+172,2025-06-05,12:00,mesa,Camarero_8,"Jugo, Cappuccino","1, 2",2800
+173,2025-06-05,12:00,mesa,Camarero_2,Cappuccino,1,1000
+174,2025-06-05,12:00,mesa,Camarero_7,"Medialuna, Medialuna","3, 2",2500
+175,2025-06-05,12:00,take_away,Camarero_4,"Tostado, Tostado","3, 1",5200
+176,2025-06-05,12:00,take_away,Camarero_7,"Agua, Cappuccino","2, 2",3200
+177,2025-06-05,12:00,mesa,Camarero_8,"Cappuccino, Medialuna","2, 1",2500
+178,2025-06-05,16:00,mesa,Camarero_6,Café Espresso,1,700
+179,2025-06-05,16:00,mesa,Camarero_6,"Café Espresso, Agua, Tostado","3, 1, 2",5300
+180,2025-06-05,16:00,take_away,Camarero_4,"Café Espresso, Cappuccino, Cappuccino","1, 3, 3",6700
+181,2025-06-05,16:00,mesa,Camarero_5,"Tostado, Jugo, Cappuccino","3, 2, 1",6500
+182,2025-06-05,16:00,mesa,Camarero_1,"Jugo, Agua","3, 3",4200
+183,2025-06-05,16:00,take_away,Camarero_5,Latte,3,2850
+184,2025-06-05,20:00,take_away,Camarero_7,Latte,1,950
+185,2025-06-05,20:00,mesa,Camarero_2,Jugo,1,800
+186,2025-06-05,20:00,mesa,Camarero_6,"Cappuccino, Cappuccino","2, 2",4000
+187,2025-06-05,20:00,mesa,Camarero_1,Latte,3,2850
+188,2025-06-05,20:00,mesa,Camarero_7,"Tostado, Cappuccino","3, 2",5900
+189,2025-06-05,20:00,take_away,Camarero_6,Jugo,1,800
+190,2025-06-05,20:00,take_away,Camarero_8,Latte,3,2850
+191,2025-06-05,20:00,take_away,Camarero_1,Latte,3,2850
+192,2025-06-05,20:00,mesa,Camarero_3,Cappuccino,1,1000
+193,2025-06-05,20:00,take_away,Camarero_3,"Cappuccino, Café Espresso","3, 2",4400
+194,2025-06-06,08:00,take_away,Camarero_1,"Medialuna, Tostado, Jugo","2, 1, 2",3900
+195,2025-06-06,08:00,take_away,Camarero_6,Tostado,1,1300
+196,2025-06-06,08:00,take_away,Camarero_3,"Cappuccino, Medialuna, Cappuccino","2, 1, 2",4500
+197,2025-06-06,08:00,take_away,Camarero_7,"Agua, Café Espresso, Jugo","1, 2, 3",4400
+198,2025-06-06,08:00,mesa,Camarero_3,"Agua, Jugo","1, 2",2200
+199,2025-06-06,08:00,mesa,Camarero_3,"Medialuna, Tostado, Latte","2, 2, 3",6450
+200,2025-06-06,08:00,mesa,Camarero_3,Latte,1,950
+201,2025-06-06,12:00,mesa,Camarero_8,"Café Espresso, Agua, Medialuna","2, 3, 3",4700
+202,2025-06-06,12:00,take_away,Camarero_1,"Cappuccino, Tostado, Tostado","3, 2, 2",8200
+203,2025-06-06,12:00,take_away,Camarero_2,"Café Espresso, Tostado, Café Espresso","2, 2, 1",4700
+204,2025-06-06,12:00,take_away,Camarero_8,"Medialuna, Agua","3, 1",2100
+205,2025-06-06,12:00,mesa,Camarero_2,"Medialuna, Tostado","1, 2",3100
+206,2025-06-06,12:00,take_away,Camarero_3,"Café Espresso, Medialuna, Café Espresso","3, 2, 2",4500
+207,2025-06-06,12:00,take_away,Camarero_1,"Agua, Cappuccino","2, 3",4200
+208,2025-06-06,12:00,take_away,Camarero_7,Cappuccino,3,3000
+209,2025-06-06,12:00,take_away,Camarero_6,"Jugo, Medialuna","3, 1",2900
+210,2025-06-06,12:00,mesa,Camarero_7,"Medialuna, Agua, Cappuccino","3, 3, 3",6300
+211,2025-06-06,12:00,mesa,Camarero_2,"Medialuna, Café Espresso, Tostado","3, 2, 1",4200
+212,2025-06-06,12:00,take_away,Camarero_4,"Cappuccino, Cappuccino, Latte","1, 2, 2",4900
+213,2025-06-06,12:00,mesa,Camarero_2,Latte,2,1900
+214,2025-06-06,12:00,mesa,Camarero_3,"Cappuccino, Jugo, Café Espresso","2, 1, 1",3500
+215,2025-06-06,16:00,mesa,Camarero_5,"Tostado, Cappuccino, Medialuna","1, 2, 3",4800
+216,2025-06-06,16:00,take_away,Camarero_8,Tostado,2,2600
+217,2025-06-06,16:00,mesa,Camarero_5,"Medialuna, Tostado","2, 2",3600
+218,2025-06-06,16:00,take_away,Camarero_1,"Tostado, Agua, Jugo","3, 1, 2",6100
+219,2025-06-06,16:00,take_away,Camarero_5,"Tostado, Café Espresso","3, 1",4600
+220,2025-06-06,16:00,mesa,Camarero_3,Latte,3,2850
+221,2025-06-06,16:00,take_away,Camarero_8,Agua,1,600
+222,2025-06-06,16:00,take_away,Camarero_6,Cappuccino,2,2000
+223,2025-06-06,16:00,mesa,Camarero_2,"Agua, Cappuccino","1, 2",2600
+224,2025-06-06,16:00,take_away,Camarero_8,Café Espresso,2,1400
+225,2025-06-06,16:00,mesa,Camarero_3,"Tostado, Medialuna, Agua","1, 2, 1",2900
+226,2025-06-06,16:00,take_away,Camarero_5,Jugo,1,800
+227,2025-06-06,16:00,mesa,Camarero_8,Latte,3,2850
+228,2025-06-06,16:00,mesa,Camarero_1,Jugo,2,1600
+229,2025-06-06,20:00,mesa,Camarero_3,"Latte, Tostado, Medialuna","1, 3, 2",5850
+230,2025-06-06,20:00,mesa,Camarero_1,"Agua, Café Espresso, Tostado","3, 3, 3",7800
+231,2025-06-06,20:00,take_away,Camarero_1,"Café Espresso, Cappuccino","2, 2",3400
+232,2025-06-06,20:00,take_away,Camarero_2,Cappuccino,3,3000
+233,2025-06-06,20:00,take_away,Camarero_6,Café Espresso,3,2100
+234,2025-06-06,20:00,mesa,Camarero_8,"Tostado, Medialuna, Medialuna","1, 1, 3",3300
+235,2025-06-06,20:00,mesa,Camarero_5,"Latte, Jugo","1, 2",2550
+236,2025-06-06,20:00,take_away,Camarero_6,"Tostado, Café Espresso, Medialuna","2, 2, 1",4500
+237,2025-06-06,20:00,take_away,Camarero_7,Jugo,2,1600
+238,2025-06-06,20:00,take_away,Camarero_6,"Cappuccino, Latte","3, 2",4900
+239,2025-06-06,20:00,take_away,Camarero_7,Jugo,1,800
+240,2025-06-06,20:00,mesa,Camarero_7,"Cappuccino, Café Espresso, Cappuccino","2, 2, 2",5400
+241,2025-06-06,20:00,mesa,Camarero_5,"Tostado, Tostado, Jugo","2, 3, 2",8100
+242,2025-06-06,20:00,mesa,Camarero_6,Medialuna,2,1000
+243,2025-06-06,20:00,mesa,Camarero_8,Café Espresso,3,2100
+244,2025-06-07,08:00,mesa,Camarero_6,Latte,3,2850
+245,2025-06-07,08:00,take_away,Camarero_8,"Agua, Café Espresso","1, 3",2700
+246,2025-06-07,08:00,take_away,Camarero_6,"Tostado, Café Espresso","1, 3",3400
+247,2025-06-07,08:00,take_away,Camarero_3,"Medialuna, Latte","1, 1",1450
+248,2025-06-07,08:00,take_away,Camarero_4,"Cappuccino, Tostado, Latte","2, 3, 2",7800
+249,2025-06-07,12:00,take_away,Camarero_8,"Agua, Tostado, Café Espresso","1, 2, 1",3900
+250,2025-06-07,12:00,mesa,Camarero_5,"Agua, Agua, Medialuna","3, 1, 3",3900
+251,2025-06-07,12:00,take_away,Camarero_3,Medialuna,3,1500
+252,2025-06-07,12:00,take_away,Camarero_6,"Latte, Agua, Jugo","1, 2, 1",2950
+253,2025-06-07,12:00,take_away,Camarero_2,"Jugo, Tostado","3, 1",3700
+254,2025-06-07,12:00,take_away,Camarero_7,"Agua, Jugo","3, 2",3400
+255,2025-06-07,12:00,mesa,Camarero_2,Agua,3,1800
+256,2025-06-07,12:00,take_away,Camarero_3,"Medialuna, Cappuccino","3, 3",4500
+257,2025-06-07,12:00,mesa,Camarero_3,"Tostado, Agua","1, 3",3100
+258,2025-06-07,12:00,take_away,Camarero_4,Latte,3,2850
+259,2025-06-07,12:00,take_away,Camarero_3,"Agua, Jugo, Latte","3, 3, 2",6100
+260,2025-06-07,12:00,take_away,Camarero_6,"Tostado, Tostado, Latte","3, 1, 1",6150
+261,2025-06-07,12:00,mesa,Camarero_5,Café Espresso,3,2100
+262,2025-06-07,12:00,mesa,Camarero_5,"Cappuccino, Medialuna, Tostado","3, 3, 2",7100
+263,2025-06-07,16:00,mesa,Camarero_8,"Cappuccino, Tostado, Medialuna","1, 2, 2",4600
+264,2025-06-07,16:00,take_away,Camarero_6,Cappuccino,1,1000
+265,2025-06-07,16:00,take_away,Camarero_2,"Agua, Cappuccino, Cappuccino","2, 3, 3",7200
+266,2025-06-07,16:00,take_away,Camarero_8,Tostado,2,2600
+267,2025-06-07,16:00,mesa,Camarero_7,Café Espresso,2,1400
+268,2025-06-07,16:00,take_away,Camarero_6,Agua,1,600
+269,2025-06-07,16:00,take_away,Camarero_8,Jugo,2,1600
+270,2025-06-07,16:00,take_away,Camarero_8,"Tostado, Café Espresso","2, 3",4700
+271,2025-06-07,16:00,mesa,Camarero_1,Medialuna,1,500
+272,2025-06-07,16:00,take_away,Camarero_5,"Medialuna, Jugo","3, 2",3100
+273,2025-06-07,16:00,mesa,Camarero_6,Tostado,2,2600
+274,2025-06-07,16:00,take_away,Camarero_6,"Café Espresso, Café Espresso","3, 1",2800
+275,2025-06-07,20:00,take_away,Camarero_5,Cappuccino,2,2000
+276,2025-06-07,20:00,mesa,Camarero_6,Agua,2,1200
+277,2025-06-07,20:00,take_away,Camarero_1,"Agua, Jugo, Latte","3, 2, 3",6250
+278,2025-06-07,20:00,mesa,Camarero_8,Café Espresso,2,1400
+279,2025-06-07,20:00,take_away,Camarero_3,Medialuna,3,1500
+280,2025-06-07,20:00,take_away,Camarero_8,"Cappuccino, Cappuccino, Medialuna","2, 3, 2",6000
+281,2025-06-07,20:00,take_away,Camarero_7,"Jugo, Cappuccino","3, 1",3400
+282,2025-06-07,20:00,take_away,Camarero_4,"Agua, Medialuna, Medialuna","2, 3, 3",4200
+283,2025-06-07,20:00,mesa,Camarero_4,"Tostado, Tostado, Jugo","2, 1, 3",6300
+284,2025-06-07,20:00,mesa,Camarero_7,"Agua, Café Espresso, Café Espresso","2, 2, 1",3300
+285,2025-06-07,20:00,mesa,Camarero_1,"Tostado, Medialuna","2, 3",4100
+286,2025-06-07,20:00,mesa,Camarero_3,"Latte, Cappuccino, Medialuna","3, 2, 2",5850
+287,2025-06-07,20:00,take_away,Camarero_5,"Cappuccino, Cappuccino, Jugo","3, 3, 3",8400
+288,2025-06-08,08:00,take_away,Camarero_5,Agua,2,1200
+289,2025-06-08,08:00,mesa,Camarero_8,"Jugo, Medialuna","3, 3",3900
+290,2025-06-08,08:00,take_away,Camarero_5,"Cappuccino, Agua","3, 2",4200
+291,2025-06-08,08:00,mesa,Camarero_1,"Medialuna, Cappuccino, Agua","2, 1, 2",3200
+292,2025-06-08,08:00,take_away,Camarero_4,"Café Espresso, Agua, Medialuna","3, 2, 1",3800
+293,2025-06-08,08:00,take_away,Camarero_1,"Medialuna, Café Espresso, Medialuna","3, 1, 1",2700
+294,2025-06-08,08:00,mesa,Camarero_3,"Latte, Café Espresso, Cappuccino","2, 1, 3",5600
+295,2025-06-08,08:00,mesa,Camarero_4,"Agua, Latte, Medialuna","2, 2, 3",4600
+296,2025-06-08,08:00,take_away,Camarero_4,"Latte, Café Espresso","1, 3",3050
+297,2025-06-08,08:00,mesa,Camarero_1,Cappuccino,1,1000
+298,2025-06-08,08:00,take_away,Camarero_1,"Latte, Jugo","2, 1",2700
+299,2025-06-08,08:00,take_away,Camarero_8,"Medialuna, Agua, Cappuccino","2, 3, 3",5800
+300,2025-06-08,08:00,mesa,Camarero_5,"Tostado, Latte, Café Espresso","1, 3, 2",5550
+301,2025-06-08,08:00,mesa,Camarero_4,Jugo,2,1600
+302,2025-06-08,12:00,take_away,Camarero_3,"Tostado, Café Espresso","3, 1",4600
+303,2025-06-08,12:00,mesa,Camarero_4,"Cappuccino, Latte","2, 2",3900
+304,2025-06-08,12:00,take_away,Camarero_1,"Agua, Cappuccino","3, 3",4800
+305,2025-06-08,12:00,take_away,Camarero_7,"Cappuccino, Latte, Medialuna","2, 2, 1",4400
+306,2025-06-08,12:00,take_away,Camarero_3,"Café Espresso, Agua, Cappuccino","3, 1, 1",3700
+307,2025-06-08,12:00,take_away,Camarero_6,Tostado,3,3900
+308,2025-06-08,12:00,take_away,Camarero_2,"Tostado, Tostado, Tostado","3, 1, 1",6500
+309,2025-06-08,16:00,take_away,Camarero_4,"Medialuna, Café Espresso, Tostado","1, 3, 3",6500
+310,2025-06-08,16:00,mesa,Camarero_8,Cappuccino,3,3000
+311,2025-06-08,16:00,mesa,Camarero_8,"Latte, Medialuna, Café Espresso","3, 2, 1",4550
+312,2025-06-08,16:00,mesa,Camarero_1,"Cappuccino, Tostado, Tostado","3, 2, 3",9500
+313,2025-06-08,16:00,take_away,Camarero_1,"Jugo, Jugo","3, 1",3200
+314,2025-06-08,16:00,take_away,Camarero_8,"Medialuna, Tostado","1, 1",1800
+315,2025-06-08,16:00,mesa,Camarero_7,"Cappuccino, Jugo","3, 3",5400
+316,2025-06-08,16:00,take_away,Camarero_2,"Tostado, Agua","2, 2",3800
+317,2025-06-08,16:00,mesa,Camarero_4,"Agua, Café Espresso, Agua","2, 3, 1",3900
+318,2025-06-08,16:00,mesa,Camarero_7,Agua,2,1200
+319,2025-06-08,16:00,take_away,Camarero_3,Latte,2,1900
+320,2025-06-08,16:00,take_away,Camarero_2,Agua,3,1800
+321,2025-06-08,16:00,mesa,Camarero_2,"Cappuccino, Jugo, Agua","1, 1, 1",2400
+322,2025-06-08,20:00,mesa,Camarero_1,"Medialuna, Medialuna","1, 1",1000
+323,2025-06-08,20:00,take_away,Camarero_5,"Latte, Latte","1, 1",1900
+324,2025-06-08,20:00,mesa,Camarero_3,"Medialuna, Medialuna, Jugo","2, 1, 2",3100
+325,2025-06-08,20:00,mesa,Camarero_3,"Cappuccino, Café Espresso","3, 3",5100
+326,2025-06-08,20:00,take_away,Camarero_6,"Tostado, Agua, Agua","3, 2, 3",6900
+327,2025-06-08,20:00,take_away,Camarero_4,"Latte, Cappuccino","3, 2",4850
+328,2025-06-09,08:00,take_away,Camarero_3,"Latte, Tostado, Café Espresso","2, 2, 3",6600
+329,2025-06-09,08:00,take_away,Camarero_2,Latte,2,1900
+330,2025-06-09,08:00,take_away,Camarero_5,"Café Espresso, Jugo","1, 1",1500
+331,2025-06-09,08:00,take_away,Camarero_4,"Medialuna, Café Espresso, Café Espresso","3, 3, 3",5700
+332,2025-06-09,08:00,take_away,Camarero_5,Agua,2,1200
+333,2025-06-09,08:00,mesa,Camarero_2,Agua,3,1800
+334,2025-06-09,08:00,take_away,Camarero_4,Medialuna,3,1500
+335,2025-06-09,08:00,take_away,Camarero_7,Tostado,2,2600
+336,2025-06-09,12:00,take_away,Camarero_2,"Latte, Tostado","2, 2",4500
+337,2025-06-09,12:00,take_away,Camarero_4,"Agua, Cappuccino","2, 1",2200
+338,2025-06-09,12:00,mesa,Camarero_7,Latte,3,2850
+339,2025-06-09,12:00,take_away,Camarero_7,Latte,1,950
+340,2025-06-09,12:00,mesa,Camarero_8,"Tostado, Agua","2, 2",3800
+341,2025-06-09,12:00,take_away,Camarero_8,"Latte, Jugo","1, 1",1750
+342,2025-06-09,12:00,mesa,Camarero_1,"Agua, Agua, Tostado","1, 3, 1",3700
+343,2025-06-09,12:00,take_away,Camarero_2,Jugo,1,800
+344,2025-06-09,12:00,mesa,Camarero_6,Latte,2,1900
+345,2025-06-09,12:00,mesa,Camarero_1,"Medialuna, Agua, Agua","3, 2, 1",3300
+346,2025-06-09,12:00,take_away,Camarero_5,Café Espresso,3,2100
+347,2025-06-09,12:00,take_away,Camarero_7,Tostado,3,3900
+348,2025-06-09,16:00,mesa,Camarero_4,Tostado,1,1300
+349,2025-06-09,16:00,take_away,Camarero_8,"Latte, Cappuccino","2, 2",3900
+350,2025-06-09,16:00,mesa,Camarero_2,"Latte, Medialuna, Jugo","3, 3, 1",5150
+351,2025-06-09,16:00,take_away,Camarero_3,"Cappuccino, Tostado","3, 1",4300
+352,2025-06-09,16:00,mesa,Camarero_2,"Jugo, Medialuna","2, 3",3100
+353,2025-06-09,16:00,mesa,Camarero_8,Latte,3,2850
+354,2025-06-09,16:00,take_away,Camarero_5,Agua,3,1800
+355,2025-06-09,20:00,mesa,Camarero_1,Agua,2,1200
+356,2025-06-09,20:00,mesa,Camarero_4,"Latte, Jugo, Jugo","1, 2, 1",3350
+357,2025-06-09,20:00,take_away,Camarero_2,"Agua, Cappuccino, Jugo","1, 3, 3",6000
+358,2025-06-09,20:00,take_away,Camarero_2,Café Espresso,1,700
+359,2025-06-09,20:00,take_away,Camarero_5,"Jugo, Agua, Cappuccino","2, 1, 3",5200
+360,2025-06-09,20:00,take_away,Camarero_3,"Latte, Tostado","2, 2",4500
+361,2025-06-09,20:00,take_away,Camarero_4,Jugo,2,1600
+362,2025-06-09,20:00,mesa,Camarero_3,Latte,2,1900
+363,2025-06-09,20:00,take_away,Camarero_6,"Cappuccino, Café Espresso","2, 2",3400
+364,2025-06-09,20:00,take_away,Camarero_7,Café Espresso,1,700
+365,2025-06-09,20:00,take_away,Camarero_6,"Tostado, Cappuccino, Café Espresso","2, 3, 1",6300
+366,2025-06-09,20:00,take_away,Camarero_2,Cappuccino,2,2000
+367,2025-06-09,20:00,mesa,Camarero_8,"Tostado, Medialuna, Latte","2, 2, 2",5500
+368,2025-06-10,08:00,mesa,Camarero_5,Tostado,2,2600
+369,2025-06-10,08:00,take_away,Camarero_8,Cappuccino,1,1000
+370,2025-06-10,08:00,mesa,Camarero_7,"Café Espresso, Cappuccino","2, 2",3400
+371,2025-06-10,08:00,take_away,Camarero_3,"Cappuccino, Jugo","3, 3",5400
+372,2025-06-10,08:00,take_away,Camarero_3,"Medialuna, Medialuna","2, 2",2000
+373,2025-06-10,08:00,take_away,Camarero_4,"Cappuccino, Medialuna","2, 3",3500
+374,2025-06-10,08:00,take_away,Camarero_4,"Latte, Jugo","2, 1",2700
+375,2025-06-10,12:00,mesa,Camarero_5,"Jugo, Café Espresso, Jugo","3, 1, 2",4700
+376,2025-06-10,12:00,mesa,Camarero_5,"Medialuna, Café Espresso","2, 1",1700
+377,2025-06-10,12:00,mesa,Camarero_7,"Cappuccino, Cappuccino, Tostado","3, 2, 3",8900
+378,2025-06-10,12:00,take_away,Camarero_2,"Café Espresso, Agua, Medialuna","3, 3, 3",5400
+379,2025-06-10,12:00,mesa,Camarero_3,Medialuna,2,1000
+380,2025-06-10,12:00,mesa,Camarero_1,"Agua, Medialuna, Cappuccino","2, 2, 1",3200
+381,2025-06-10,12:00,mesa,Camarero_4,"Latte, Jugo","3, 3",5250
+382,2025-06-10,12:00,take_away,Camarero_3,"Cappuccino, Jugo","3, 3",5400
+383,2025-06-10,12:00,take_away,Camarero_7,Tostado,2,2600
+384,2025-06-10,12:00,mesa,Camarero_3,Jugo,3,2400
+385,2025-06-10,12:00,take_away,Camarero_6,"Cappuccino, Jugo","3, 2",4600
+386,2025-06-10,12:00,take_away,Camarero_8,Tostado,3,3900
+387,2025-06-10,12:00,take_away,Camarero_2,Cappuccino,3,3000
+388,2025-06-10,12:00,mesa,Camarero_4,"Medialuna, Medialuna","1, 3",2000
+389,2025-06-10,16:00,mesa,Camarero_3,"Latte, Tostado, Agua","1, 2, 3",5350
+390,2025-06-10,16:00,mesa,Camarero_7,"Medialuna, Cappuccino, Jugo","1, 2, 3",4900
+391,2025-06-10,16:00,take_away,Camarero_5,Medialuna,1,500
+392,2025-06-10,16:00,mesa,Camarero_2,"Café Espresso, Agua, Latte","2, 1, 2",3900
+393,2025-06-10,16:00,take_away,Camarero_7,"Agua, Tostado, Medialuna","3, 2, 3",5900
+394,2025-06-10,16:00,mesa,Camarero_5,"Cappuccino, Tostado","1, 3",4900
+395,2025-06-10,16:00,mesa,Camarero_3,"Café Espresso, Café Espresso, Cappuccino","1, 2, 3",5100
+396,2025-06-10,16:00,take_away,Camarero_8,"Medialuna, Medialuna","2, 1",1500
+397,2025-06-10,16:00,mesa,Camarero_6,"Latte, Cappuccino, Latte","2, 3, 1",5850
+398,2025-06-10,16:00,mesa,Camarero_8,"Café Espresso, Jugo","3, 3",4500
+399,2025-06-10,16:00,take_away,Camarero_1,"Tostado, Medialuna, Tostado","1, 1, 3",5700
+400,2025-06-10,16:00,mesa,Camarero_8,"Café Espresso, Latte","2, 1",2350
+401,2025-06-10,16:00,take_away,Camarero_1,"Tostado, Medialuna, Latte","3, 2, 3",7750
+402,2025-06-10,20:00,mesa,Camarero_1,"Café Espresso, Jugo","1, 2",2300
+403,2025-06-10,20:00,take_away,Camarero_4,"Cappuccino, Jugo","2, 1",2800
+404,2025-06-10,20:00,mesa,Camarero_3,"Medialuna, Cappuccino, Medialuna","3, 2, 1",4000
+405,2025-06-10,20:00,mesa,Camarero_6,Jugo,3,2400
+406,2025-06-10,20:00,take_away,Camarero_2,"Tostado, Cappuccino, Medialuna","2, 3, 2",6600
+407,2025-06-10,20:00,mesa,Camarero_3,"Agua, Agua","3, 1",2400
+408,2025-06-10,20:00,mesa,Camarero_7,Medialuna,1,500
+409,2025-06-10,20:00,take_away,Camarero_7,Medialuna,2,1000
+410,2025-06-10,20:00,take_away,Camarero_5,"Café Espresso, Jugo","1, 2",2300
+411,2025-06-10,20:00,take_away,Camarero_2,"Agua, Cappuccino","1, 3",3600
+412,2025-06-10,20:00,take_away,Camarero_7,"Medialuna, Cappuccino, Café Espresso","3, 2, 1",4200
+413,2025-06-10,20:00,mesa,Camarero_3,"Latte, Jugo","2, 3",4300
+414,2025-06-11,08:00,take_away,Camarero_8,"Agua, Jugo","1, 1",1400
+415,2025-06-11,08:00,mesa,Camarero_8,Agua,1,600
+416,2025-06-11,08:00,take_away,Camarero_4,Agua,2,1200
+417,2025-06-11,08:00,mesa,Camarero_5,"Cappuccino, Agua, Agua","1, 3, 2",4000
+418,2025-06-11,08:00,mesa,Camarero_5,"Medialuna, Medialuna","1, 2",1500
+419,2025-06-11,08:00,mesa,Camarero_8,"Medialuna, Medialuna","1, 1",1000
+420,2025-06-11,08:00,mesa,Camarero_8,Medialuna,3,1500
+421,2025-06-11,08:00,mesa,Camarero_7,Medialuna,1,500
+422,2025-06-11,08:00,mesa,Camarero_2,"Café Espresso, Cappuccino","3, 1",3100
+423,2025-06-11,08:00,take_away,Camarero_3,"Agua, Café Espresso","1, 3",2700
+424,2025-06-11,08:00,mesa,Camarero_3,"Tostado, Medialuna, Latte","2, 3, 1",5050
+425,2025-06-11,08:00,take_away,Camarero_7,"Medialuna, Agua, Café Espresso","1, 1, 1",1800
+426,2025-06-11,08:00,take_away,Camarero_2,"Cappuccino, Café Espresso","2, 3",4100
+427,2025-06-11,08:00,mesa,Camarero_5,"Medialuna, Jugo, Latte","3, 1, 3",5150
+428,2025-06-11,12:00,mesa,Camarero_2,"Cappuccino, Medialuna, Jugo","1, 2, 2",3600
+429,2025-06-11,12:00,mesa,Camarero_6,"Medialuna, Café Espresso","1, 2",1900
+430,2025-06-11,12:00,mesa,Camarero_3,"Agua, Tostado","2, 3",5100
+431,2025-06-11,12:00,take_away,Camarero_1,Café Espresso,1,700
+432,2025-06-11,12:00,take_away,Camarero_7,Café Espresso,1,700
+433,2025-06-11,12:00,take_away,Camarero_3,"Medialuna, Jugo, Cappuccino","2, 1, 3",4800
+434,2025-06-11,12:00,take_away,Camarero_4,Cappuccino,3,3000
+435,2025-06-11,12:00,mesa,Camarero_2,"Cappuccino, Medialuna, Jugo","3, 3, 3",6900
+436,2025-06-11,16:00,take_away,Camarero_1,"Agua, Latte, Latte","2, 1, 2",4050
+437,2025-06-11,16:00,take_away,Camarero_1,"Jugo, Jugo, Café Espresso","3, 1, 3",5300
+438,2025-06-11,16:00,mesa,Camarero_3,"Agua, Tostado","3, 2",4400
+439,2025-06-11,16:00,take_away,Camarero_2,Jugo,2,1600
+440,2025-06-11,16:00,mesa,Camarero_2,"Jugo, Latte","1, 2",2700
+441,2025-06-11,16:00,take_away,Camarero_6,"Tostado, Café Espresso","3, 1",4600
+442,2025-06-11,16:00,mesa,Camarero_2,"Jugo, Agua","3, 3",4200
+443,2025-06-11,16:00,mesa,Camarero_6,"Tostado, Café Espresso, Agua","1, 1, 2",3200
+444,2025-06-11,16:00,take_away,Camarero_7,Latte,1,950
+445,2025-06-11,20:00,take_away,Camarero_6,Cappuccino,3,3000
+446,2025-06-11,20:00,take_away,Camarero_1,Medialuna,1,500
+447,2025-06-11,20:00,mesa,Camarero_7,Jugo,1,800
+448,2025-06-11,20:00,mesa,Camarero_2,"Agua, Jugo","2, 2",2800
+449,2025-06-11,20:00,take_away,Camarero_5,Cappuccino,2,2000
+450,2025-06-11,20:00,mesa,Camarero_4,"Cappuccino, Agua","1, 3",2800
+451,2025-06-11,20:00,mesa,Camarero_4,Agua,1,600
+452,2025-06-11,20:00,take_away,Camarero_5,"Jugo, Agua, Agua","1, 3, 2",3800
+453,2025-06-12,08:00,mesa,Camarero_2,"Agua, Cappuccino, Agua","1, 3, 2",4800
+454,2025-06-12,08:00,mesa,Camarero_7,Agua,3,1800
+455,2025-06-12,08:00,take_away,Camarero_3,"Agua, Café Espresso","1, 3",2700
+456,2025-06-12,08:00,take_away,Camarero_7,Medialuna,1,500
+457,2025-06-12,08:00,mesa,Camarero_7,Cappuccino,2,2000
+458,2025-06-12,08:00,take_away,Camarero_2,"Tostado, Latte","1, 1",2250
+459,2025-06-12,12:00,mesa,Camarero_7,Tostado,2,2600
+460,2025-06-12,12:00,mesa,Camarero_2,"Cappuccino, Jugo, Tostado","2, 2, 1",4900
+461,2025-06-12,12:00,mesa,Camarero_2,"Cappuccino, Medialuna, Medialuna","1, 2, 1",2500
+462,2025-06-12,12:00,mesa,Camarero_3,"Cappuccino, Café Espresso","2, 2",3400
+463,2025-06-12,12:00,mesa,Camarero_2,"Jugo, Tostado","3, 1",3700
+464,2025-06-12,12:00,take_away,Camarero_2,Jugo,1,800
+465,2025-06-12,12:00,mesa,Camarero_3,Jugo,1,800
+466,2025-06-12,16:00,take_away,Camarero_5,"Medialuna, Agua","1, 3",2300
+467,2025-06-12,16:00,mesa,Camarero_8,Agua,1,600
+468,2025-06-12,16:00,mesa,Camarero_2,Agua,2,1200
+469,2025-06-12,16:00,mesa,Camarero_7,"Café Espresso, Agua","2, 3",3200
+470,2025-06-12,16:00,take_away,Camarero_3,Cappuccino,2,2000
+471,2025-06-12,16:00,take_away,Camarero_5,Agua,2,1200
+472,2025-06-12,16:00,take_away,Camarero_4,Café Espresso,3,2100
+473,2025-06-12,16:00,take_away,Camarero_5,"Cappuccino, Tostado","1, 1",2300
+474,2025-06-12,20:00,mesa,Camarero_1,"Latte, Agua","3, 1",3450
+475,2025-06-12,20:00,take_away,Camarero_7,"Cappuccino, Tostado, Tostado","3, 3, 2",9500
+476,2025-06-12,20:00,take_away,Camarero_4,Café Espresso,3,2100
+477,2025-06-12,20:00,mesa,Camarero_4,"Café Espresso, Agua","3, 2",3300
+478,2025-06-12,20:00,mesa,Camarero_5,Latte,1,950
+479,2025-06-12,20:00,mesa,Camarero_6,Medialuna,2,1000
+480,2025-06-12,20:00,mesa,Camarero_6,Latte,2,1900
+481,2025-06-12,20:00,mesa,Camarero_5,"Medialuna, Agua, Tostado","3, 1, 2",4700
+482,2025-06-12,20:00,mesa,Camarero_1,"Café Espresso, Café Espresso","3, 1",2800
+483,2025-06-12,20:00,take_away,Camarero_4,Cappuccino,3,3000
+484,2025-06-12,20:00,mesa,Camarero_1,"Jugo, Agua","2, 1",2200
+485,2025-06-13,08:00,mesa,Camarero_2,Jugo,2,1600
+486,2025-06-13,08:00,take_away,Camarero_3,"Agua, Cappuccino, Café Espresso","2, 2, 1",3900
+487,2025-06-13,08:00,take_away,Camarero_6,"Agua, Medialuna, Latte","3, 3, 3",6150
+488,2025-06-13,08:00,mesa,Camarero_3,"Medialuna, Latte, Cappuccino","3, 2, 1",4400
+489,2025-06-13,08:00,mesa,Camarero_6,"Agua, Cappuccino, Agua","3, 1, 1",3400
+490,2025-06-13,08:00,mesa,Camarero_6,"Tostado, Agua, Café Espresso","3, 1, 1",5200
+491,2025-06-13,08:00,take_away,Camarero_6,Medialuna,1,500
+492,2025-06-13,12:00,mesa,Camarero_2,"Latte, Medialuna","2, 2",2900
+493,2025-06-13,12:00,mesa,Camarero_7,Cappuccino,3,3000
+494,2025-06-13,12:00,mesa,Camarero_2,"Tostado, Cappuccino","3, 2",5900
+495,2025-06-13,12:00,take_away,Camarero_1,"Medialuna, Medialuna, Latte","1, 1, 2",2900
+496,2025-06-13,12:00,take_away,Camarero_3,"Agua, Café Espresso","1, 2",2000
+497,2025-06-13,12:00,mesa,Camarero_1,"Agua, Agua, Cappuccino","3, 2, 3",6000
+498,2025-06-13,12:00,take_away,Camarero_4,"Latte, Agua, Latte","1, 2, 1",3100
+499,2025-06-13,12:00,take_away,Camarero_4,"Tostado, Agua, Tostado","3, 2, 2",7700
+500,2025-06-13,12:00,mesa,Camarero_8,Cappuccino,3,3000
+501,2025-06-13,12:00,mesa,Camarero_2,Cappuccino,2,2000
+502,2025-06-13,12:00,take_away,Camarero_5,"Medialuna, Tostado, Café Espresso","1, 1, 3",3900
+503,2025-06-13,12:00,mesa,Camarero_8,"Jugo, Cappuccino","2, 2",3600
+504,2025-06-13,16:00,take_away,Camarero_3,Medialuna,2,1000
+505,2025-06-13,16:00,take_away,Camarero_8,"Cappuccino, Tostado","2, 2",4600
+506,2025-06-13,16:00,take_away,Camarero_1,Jugo,3,2400
+507,2025-06-13,16:00,mesa,Camarero_4,"Medialuna, Café Espresso, Cappuccino","3, 2, 3",5900
+508,2025-06-13,16:00,mesa,Camarero_8,"Jugo, Cappuccino","3, 3",5400
+509,2025-06-13,16:00,mesa,Camarero_3,"Cappuccino, Cappuccino","3, 1",4000
+510,2025-06-13,16:00,mesa,Camarero_3,"Latte, Agua","1, 1",1550
+511,2025-06-13,16:00,mesa,Camarero_3,"Café Espresso, Medialuna","1, 3",2200
+512,2025-06-13,16:00,take_away,Camarero_7,"Agua, Agua","1, 1",1200
+513,2025-06-13,16:00,take_away,Camarero_7,"Cappuccino, Latte, Tostado","1, 3, 3",7750
+514,2025-06-13,16:00,mesa,Camarero_2,"Latte, Tostado","3, 1",4150
+515,2025-06-13,16:00,mesa,Camarero_7,"Agua, Agua","2, 2",2400
+516,2025-06-13,16:00,take_away,Camarero_7,"Medialuna, Café Espresso, Latte","1, 3, 3",5450
+517,2025-06-13,16:00,mesa,Camarero_8,"Agua, Cappuccino","1, 1",1600
+518,2025-06-13,16:00,take_away,Camarero_5,"Café Espresso, Jugo","2, 2",3000
+519,2025-06-13,20:00,mesa,Camarero_8,Café Espresso,3,2100
+520,2025-06-13,20:00,take_away,Camarero_8,"Jugo, Medialuna","1, 1",1300
+521,2025-06-13,20:00,mesa,Camarero_3,"Jugo, Jugo","2, 1",2400
+522,2025-06-13,20:00,mesa,Camarero_1,"Medialuna, Cappuccino","3, 3",4500
+523,2025-06-13,20:00,mesa,Camarero_1,Agua,1,600
+524,2025-06-13,20:00,mesa,Camarero_4,Tostado,2,2600
+525,2025-06-13,20:00,take_away,Camarero_1,"Jugo, Tostado","3, 1",3700
+526,2025-06-13,20:00,mesa,Camarero_6,"Tostado, Tostado","2, 3",6500
+527,2025-06-13,20:00,take_away,Camarero_2,Jugo,2,1600
+528,2025-06-13,20:00,take_away,Camarero_4,Cappuccino,1,1000
+529,2025-06-13,20:00,mesa,Camarero_1,"Latte, Latte, Medialuna","3, 1, 3",5300
+530,2025-06-13,20:00,take_away,Camarero_1,Medialuna,3,1500
+531,2025-06-14,08:00,take_away,Camarero_7,"Jugo, Cappuccino, Agua","3, 2, 2",5600
+532,2025-06-14,08:00,take_away,Camarero_7,"Latte, Tostado","3, 3",6750
+533,2025-06-14,08:00,mesa,Camarero_6,Tostado,3,3900
+534,2025-06-14,08:00,take_away,Camarero_6,"Medialuna, Tostado","2, 2",3600
+535,2025-06-14,08:00,take_away,Camarero_4,"Medialuna, Agua","3, 2",2700
+536,2025-06-14,08:00,mesa,Camarero_6,"Jugo, Agua, Jugo","3, 2, 3",6000
+537,2025-06-14,08:00,mesa,Camarero_1,"Café Espresso, Tostado, Cappuccino","2, 2, 2",6000
+538,2025-06-14,08:00,mesa,Camarero_8,"Jugo, Latte","3, 3",5250
+539,2025-06-14,12:00,take_away,Camarero_2,"Cappuccino, Latte, Medialuna","3, 1, 2",4950
+540,2025-06-14,12:00,take_away,Camarero_3,Jugo,3,2400
+541,2025-06-14,12:00,take_away,Camarero_6,"Café Espresso, Cappuccino, Jugo","2, 2, 2",5000
+542,2025-06-14,12:00,take_away,Camarero_2,"Cappuccino, Jugo, Tostado","3, 3, 3",9300
+543,2025-06-14,12:00,take_away,Camarero_7,Tostado,3,3900
+544,2025-06-14,12:00,take_away,Camarero_6,"Café Espresso, Jugo","1, 1",1500
+545,2025-06-14,12:00,take_away,Camarero_8,"Agua, Agua, Latte","3, 1, 1",3350
+546,2025-06-14,12:00,take_away,Camarero_3,"Agua, Cappuccino, Café Espresso","2, 2, 1",3900
+547,2025-06-14,12:00,mesa,Camarero_7,"Jugo, Jugo","1, 3",3200
+548,2025-06-14,12:00,take_away,Camarero_4,"Tostado, Tostado","1, 1",2600
+549,2025-06-14,12:00,take_away,Camarero_4,Agua,3,1800
+550,2025-06-14,12:00,mesa,Camarero_2,"Café Espresso, Jugo, Latte","2, 2, 1",3950
+551,2025-06-14,12:00,take_away,Camarero_6,"Medialuna, Latte, Jugo","2, 2, 2",4500
+552,2025-06-14,12:00,take_away,Camarero_7,"Agua, Cappuccino, Agua","2, 1, 1",2800
+553,2025-06-14,12:00,mesa,Camarero_4,Latte,1,950
+554,2025-06-14,16:00,mesa,Camarero_1,Cappuccino,3,3000
+555,2025-06-14,16:00,take_away,Camarero_1,"Latte, Tostado, Café Espresso","1, 3, 1",5550
+556,2025-06-14,16:00,mesa,Camarero_3,"Café Espresso, Tostado, Café Espresso","2, 2, 3",6100
+557,2025-06-14,16:00,mesa,Camarero_5,"Medialuna, Café Espresso, Cappuccino","1, 3, 3",5600
+558,2025-06-14,16:00,mesa,Camarero_2,"Jugo, Café Espresso","3, 3",4500
+559,2025-06-14,20:00,mesa,Camarero_4,Tostado,3,3900
+560,2025-06-14,20:00,take_away,Camarero_8,"Agua, Cappuccino, Cappuccino","1, 1, 3",4600
+561,2025-06-14,20:00,mesa,Camarero_8,"Agua, Cappuccino, Café Espresso","3, 1, 1",3500
+562,2025-06-14,20:00,mesa,Camarero_2,Jugo,1,800
+563,2025-06-14,20:00,take_away,Camarero_3,"Latte, Agua, Cappuccino","2, 1, 1",3500
+564,2025-06-14,20:00,mesa,Camarero_2,"Cappuccino, Medialuna","2, 3",3500
+565,2025-06-14,20:00,mesa,Camarero_3,Café Espresso,1,700
+566,2025-06-14,20:00,take_away,Camarero_2,"Agua, Agua","2, 3",3000
+567,2025-06-14,20:00,take_away,Camarero_7,"Latte, Cappuccino","2, 2",3900
+568,2025-06-15,08:00,take_away,Camarero_2,"Agua, Latte, Café Espresso","3, 1, 1",3450
+569,2025-06-15,08:00,take_away,Camarero_1,"Tostado, Tostado, Tostado","3, 2, 2",9100
+570,2025-06-15,08:00,mesa,Camarero_1,"Agua, Café Espresso","2, 2",2600
+571,2025-06-15,08:00,mesa,Camarero_4,"Medialuna, Café Espresso","3, 3",3600
+572,2025-06-15,08:00,take_away,Camarero_8,"Tostado, Medialuna, Café Espresso","3, 3, 1",6100
+573,2025-06-15,08:00,take_away,Camarero_1,"Medialuna, Cappuccino, Jugo","3, 3, 1",5300
+574,2025-06-15,08:00,mesa,Camarero_4,"Jugo, Jugo, Agua","1, 2, 2",3600
+575,2025-06-15,08:00,take_away,Camarero_7,"Café Espresso, Latte","3, 2",4000
+576,2025-06-15,08:00,mesa,Camarero_8,Tostado,3,3900
+577,2025-06-15,08:00,mesa,Camarero_1,"Tostado, Café Espresso","2, 3",4700
+578,2025-06-15,08:00,mesa,Camarero_5,"Cappuccino, Tostado","1, 1",2300
+579,2025-06-15,08:00,mesa,Camarero_6,"Medialuna, Agua, Cappuccino","1, 1, 2",3100
+580,2025-06-15,12:00,take_away,Camarero_6,"Medialuna, Jugo, Café Espresso","3, 1, 1",3000
+581,2025-06-15,12:00,take_away,Camarero_3,"Agua, Cappuccino, Tostado","3, 1, 1",4100
+582,2025-06-15,12:00,take_away,Camarero_7,Jugo,3,2400
+583,2025-06-15,12:00,mesa,Camarero_8,"Medialuna, Latte","2, 1",1950
+584,2025-06-15,12:00,mesa,Camarero_2,"Cappuccino, Jugo, Café Espresso","3, 3, 3",7500
+585,2025-06-15,12:00,take_away,Camarero_1,"Medialuna, Agua","1, 2",1700
+586,2025-06-15,12:00,mesa,Camarero_3,"Agua, Jugo, Tostado","3, 1, 3",6500
+587,2025-06-15,12:00,mesa,Camarero_6,Cappuccino,3,3000
+588,2025-06-15,12:00,take_away,Camarero_7,"Agua, Agua","1, 2",1800
+589,2025-06-15,12:00,take_away,Camarero_5,"Tostado, Café Espresso","2, 3",4700
+590,2025-06-15,12:00,take_away,Camarero_5,"Jugo, Tostado, Latte","1, 3, 3",7550
+591,2025-06-15,12:00,take_away,Camarero_6,"Café Espresso, Medialuna, Agua","1, 3, 3",4000
+592,2025-06-15,12:00,mesa,Camarero_7,"Tostado, Medialuna","3, 3",5400
+593,2025-06-15,16:00,take_away,Camarero_3,"Jugo, Tostado","1, 2",3400
+594,2025-06-15,16:00,mesa,Camarero_3,"Café Espresso, Latte, Jugo","2, 3, 2",5850
+595,2025-06-15,16:00,mesa,Camarero_4,"Jugo, Latte, Tostado","2, 2, 1",4800
+596,2025-06-15,16:00,take_away,Camarero_5,Tostado,3,3900
+597,2025-06-15,16:00,mesa,Camarero_1,"Cappuccino, Agua","3, 2",4200
+598,2025-06-15,16:00,mesa,Camarero_6,"Latte, Medialuna, Jugo","2, 1, 3",4800
+599,2025-06-15,16:00,mesa,Camarero_3,"Agua, Cappuccino, Latte","3, 1, 1",3750
+600,2025-06-15,16:00,mesa,Camarero_3,"Café Espresso, Latte","2, 1",2350
+601,2025-06-15,16:00,take_away,Camarero_3,Cappuccino,3,3000
+602,2025-06-15,16:00,mesa,Camarero_1,Agua,3,1800
+603,2025-06-15,16:00,take_away,Camarero_6,"Jugo, Tostado","1, 3",4700
+604,2025-06-15,16:00,mesa,Camarero_3,Tostado,3,3900
+605,2025-06-15,16:00,take_away,Camarero_6,"Tostado, Café Espresso, Latte","1, 3, 2",5300
+606,2025-06-15,16:00,take_away,Camarero_1,"Latte, Jugo","3, 2",4450
+607,2025-06-15,16:00,mesa,Camarero_6,"Cappuccino, Latte, Medialuna","3, 1, 1",4450
+608,2025-06-15,20:00,mesa,Camarero_6,"Latte, Jugo","1, 3",3350
+609,2025-06-15,20:00,take_away,Camarero_2,"Café Espresso, Agua","1, 2",1900
+610,2025-06-15,20:00,mesa,Camarero_1,Agua,3,1800
+611,2025-06-15,20:00,mesa,Camarero_7,Medialuna,1,500
+612,2025-06-15,20:00,mesa,Camarero_7,Tostado,3,3900
+613,2025-06-15,20:00,mesa,Camarero_1,"Medialuna, Café Espresso, Jugo","1, 1, 1",2000
+614,2025-06-15,20:00,mesa,Camarero_7,"Tostado, Medialuna","1, 2",2300
+615,2025-06-15,20:00,take_away,Camarero_2,"Medialuna, Tostado","1, 2",3100
+616,2025-06-15,20:00,mesa,Camarero_6,"Jugo, Café Espresso, Jugo","1, 3, 1",3700
+617,2025-06-15,20:00,mesa,Camarero_8,"Jugo, Cappuccino","1, 2",2800
+618,2025-06-15,20:00,take_away,Camarero_4,"Jugo, Café Espresso","1, 3",2900
+619,2025-06-16,08:00,take_away,Camarero_1,"Cappuccino, Medialuna, Cappuccino","3, 3, 2",6500
+620,2025-06-16,08:00,mesa,Camarero_7,Café Espresso,3,2100
+621,2025-06-16,08:00,mesa,Camarero_4,"Latte, Jugo","3, 2",4450
+622,2025-06-16,08:00,take_away,Camarero_2,"Jugo, Café Espresso, Latte","3, 2, 1",4750
+623,2025-06-16,08:00,mesa,Camarero_2,"Jugo, Jugo, Jugo","3, 2, 3",6400
+624,2025-06-16,08:00,take_away,Camarero_3,"Café Espresso, Café Espresso, Jugo","2, 2, 2",4400
+625,2025-06-16,08:00,mesa,Camarero_4,Latte,1,950
+626,2025-06-16,12:00,take_away,Camarero_3,"Cappuccino, Medialuna","3, 3",4500
+627,2025-06-16,12:00,take_away,Camarero_4,"Agua, Latte","2, 1",2150
+628,2025-06-16,12:00,take_away,Camarero_8,"Jugo, Café Espresso","3, 2",3800
+629,2025-06-16,12:00,take_away,Camarero_3,"Cappuccino, Cappuccino","3, 1",4000
+630,2025-06-16,12:00,mesa,Camarero_5,"Agua, Café Espresso","3, 1",2500
+631,2025-06-16,12:00,mesa,Camarero_7,"Café Espresso, Café Espresso, Tostado","1, 3, 3",6700
+632,2025-06-16,12:00,mesa,Camarero_8,Tostado,3,3900
+633,2025-06-16,12:00,mesa,Camarero_5,"Cappuccino, Agua","3, 3",4800
+634,2025-06-16,12:00,mesa,Camarero_1,"Tostado, Café Espresso","2, 3",4700
+635,2025-06-16,12:00,mesa,Camarero_3,"Medialuna, Jugo, Café Espresso","1, 1, 3",3400
+636,2025-06-16,16:00,take_away,Camarero_4,Latte,2,1900
+637,2025-06-16,16:00,mesa,Camarero_6,"Cappuccino, Café Espresso","1, 3",3100
+638,2025-06-16,16:00,take_away,Camarero_6,"Agua, Agua","1, 3",2400
+639,2025-06-16,16:00,mesa,Camarero_3,"Agua, Medialuna, Latte","3, 2, 3",5650
+640,2025-06-16,16:00,take_away,Camarero_7,"Cappuccino, Medialuna, Agua","1, 3, 2",3700
+641,2025-06-16,16:00,mesa,Camarero_3,"Cappuccino, Jugo, Cappuccino","2, 3, 1",5400
+642,2025-06-16,16:00,take_away,Camarero_5,Latte,3,2850
+643,2025-06-16,16:00,mesa,Camarero_2,Latte,2,1900
+644,2025-06-16,16:00,mesa,Camarero_8,"Jugo, Jugo","2, 3",4000
+645,2025-06-16,16:00,take_away,Camarero_7,Medialuna,3,1500
+646,2025-06-16,16:00,mesa,Camarero_3,Café Espresso,3,2100
+647,2025-06-16,16:00,mesa,Camarero_7,"Tostado, Agua, Latte","1, 2, 1",3450
+648,2025-06-16,20:00,mesa,Camarero_8,"Jugo, Jugo, Agua","1, 2, 3",4200
+649,2025-06-16,20:00,take_away,Camarero_3,Latte,2,1900
+650,2025-06-16,20:00,mesa,Camarero_2,"Medialuna, Latte, Jugo","2, 2, 3",5300
+651,2025-06-16,20:00,mesa,Camarero_7,"Cappuccino, Café Espresso","1, 3",3100
+652,2025-06-16,20:00,mesa,Camarero_2,"Café Espresso, Tostado, Medialuna","1, 3, 3",6100
+653,2025-06-16,20:00,mesa,Camarero_7,"Medialuna, Agua","3, 1",2100
+654,2025-06-16,20:00,take_away,Camarero_8,"Agua, Medialuna","2, 1",1700
+655,2025-06-16,20:00,take_away,Camarero_2,"Medialuna, Jugo","3, 3",3900
+656,2025-06-16,20:00,take_away,Camarero_2,Latte,1,950
+657,2025-06-16,20:00,take_away,Camarero_2,"Agua, Cappuccino, Latte","3, 3, 1",5750
+658,2025-06-16,20:00,mesa,Camarero_6,"Medialuna, Medialuna","2, 2",2000
+659,2025-06-16,20:00,mesa,Camarero_5,Cappuccino,3,3000
+660,2025-06-16,20:00,take_away,Camarero_7,"Cappuccino, Cappuccino, Latte","3, 2, 1",5950
+661,2025-06-16,20:00,take_away,Camarero_8,Cappuccino,3,3000
+662,2025-06-17,08:00,take_away,Camarero_4,"Cappuccino, Medialuna, Jugo","3, 1, 3",5900
+663,2025-06-17,08:00,take_away,Camarero_1,"Agua, Café Espresso, Tostado","2, 3, 3",7200
+664,2025-06-17,08:00,mesa,Camarero_8,"Agua, Café Espresso","1, 1",1300
+665,2025-06-17,08:00,take_away,Camarero_6,Café Espresso,1,700
+666,2025-06-17,08:00,mesa,Camarero_5,"Café Espresso, Cappuccino, Agua","3, 3, 3",6900
+667,2025-06-17,08:00,mesa,Camarero_1,Medialuna,2,1000
+668,2025-06-17,08:00,mesa,Camarero_4,"Agua, Tostado, Latte","3, 3, 3",8550
+669,2025-06-17,08:00,mesa,Camarero_7,"Café Espresso, Latte, Café Espresso","1, 1, 2",3050
+670,2025-06-17,08:00,take_away,Camarero_2,"Cappuccino, Medialuna, Tostado","3, 3, 1",5800
+671,2025-06-17,12:00,take_away,Camarero_4,"Jugo, Agua, Cappuccino","2, 1, 3",5200
+672,2025-06-17,12:00,take_away,Camarero_2,"Medialuna, Latte","2, 3",3850
+673,2025-06-17,12:00,mesa,Camarero_5,"Cappuccino, Agua, Jugo","2, 3, 3",6200
+674,2025-06-17,12:00,take_away,Camarero_8,"Tostado, Jugo","2, 2",4200
+675,2025-06-17,12:00,mesa,Camarero_4,"Café Espresso, Café Espresso","3, 1",2800
+676,2025-06-17,12:00,take_away,Camarero_5,"Agua, Tostado","1, 3",4500
+677,2025-06-17,12:00,mesa,Camarero_3,"Café Espresso, Medialuna","2, 1",1900
+678,2025-06-17,12:00,take_away,Camarero_4,"Cappuccino, Agua","2, 1",2600
+679,2025-06-17,12:00,take_away,Camarero_4,"Latte, Jugo, Agua","1, 1, 1",2350
+680,2025-06-17,12:00,take_away,Camarero_2,Jugo,1,800
+681,2025-06-17,12:00,take_away,Camarero_6,"Café Espresso, Jugo, Agua","2, 2, 3",4800
+682,2025-06-17,12:00,take_away,Camarero_4,"Agua, Tostado, Agua","3, 2, 2",5600
+683,2025-06-17,12:00,mesa,Camarero_8,Tostado,2,2600
+684,2025-06-17,16:00,mesa,Camarero_8,"Cappuccino, Agua, Jugo","2, 1, 3",5000
+685,2025-06-17,16:00,take_away,Camarero_5,"Café Espresso, Medialuna, Cappuccino","1, 2, 2",3700
+686,2025-06-17,16:00,mesa,Camarero_8,"Latte, Latte, Agua","2, 2, 1",4400
+687,2025-06-17,16:00,take_away,Camarero_6,Cappuccino,2,2000
+688,2025-06-17,16:00,take_away,Camarero_4,"Tostado, Tostado","3, 3",7800
+689,2025-06-17,16:00,mesa,Camarero_3,"Latte, Latte, Tostado","2, 1, 1",4150
+690,2025-06-17,16:00,take_away,Camarero_3,Latte,2,1900
+691,2025-06-17,16:00,take_away,Camarero_7,"Cappuccino, Tostado","3, 1",4300
+692,2025-06-17,16:00,mesa,Camarero_6,"Latte, Latte, Latte","3, 1, 2",5700
+693,2025-06-17,16:00,take_away,Camarero_1,"Cappuccino, Tostado","2, 2",4600
+694,2025-06-17,16:00,take_away,Camarero_4,Cappuccino,3,3000
+695,2025-06-17,16:00,mesa,Camarero_8,"Cappuccino, Medialuna","2, 3",3500
+696,2025-06-17,16:00,mesa,Camarero_6,"Medialuna, Tostado","1, 1",1800
+697,2025-06-17,20:00,take_away,Camarero_4,Café Espresso,2,1400
+698,2025-06-17,20:00,take_away,Camarero_7,"Medialuna, Medialuna","3, 3",3000
+699,2025-06-17,20:00,take_away,Camarero_8,"Jugo, Agua","3, 3",4200
+700,2025-06-17,20:00,take_away,Camarero_3,Latte,1,950
+701,2025-06-17,20:00,mesa,Camarero_2,"Latte, Jugo, Jugo","1, 1, 2",3350
+702,2025-06-17,20:00,mesa,Camarero_1,Agua,2,1200
+703,2025-06-17,20:00,mesa,Camarero_3,"Tostado, Agua","1, 2",2500
+704,2025-06-17,20:00,mesa,Camarero_3,"Agua, Cappuccino, Latte","3, 2, 2",5700
+705,2025-06-17,20:00,mesa,Camarero_5,"Jugo, Café Espresso, Medialuna","2, 2, 2",4000
+706,2025-06-17,20:00,take_away,Camarero_3,Agua,3,1800
+707,2025-06-17,20:00,take_away,Camarero_5,"Jugo, Agua, Tostado","3, 3, 3",8100
+708,2025-06-18,08:00,take_away,Camarero_5,"Latte, Café Espresso, Cappuccino","2, 2, 1",4300
+709,2025-06-18,08:00,mesa,Camarero_6,Tostado,1,1300
+710,2025-06-18,08:00,take_away,Camarero_5,"Tostado, Medialuna","2, 2",3600
+711,2025-06-18,08:00,mesa,Camarero_6,"Jugo, Medialuna","1, 3",2300
+712,2025-06-18,08:00,mesa,Camarero_7,"Agua, Tostado","1, 1",1900
+713,2025-06-18,08:00,take_away,Camarero_4,Latte,2,1900
+714,2025-06-18,08:00,take_away,Camarero_4,"Medialuna, Tostado","2, 2",3600
+715,2025-06-18,08:00,mesa,Camarero_8,Café Espresso,1,700
+716,2025-06-18,08:00,take_away,Camarero_3,"Medialuna, Tostado","2, 1",2300
+717,2025-06-18,08:00,mesa,Camarero_1,"Café Espresso, Agua, Latte","1, 3, 2",4400
+718,2025-06-18,12:00,mesa,Camarero_6,Café Espresso,1,700
+719,2025-06-18,12:00,take_away,Camarero_1,"Jugo, Tostado","2, 2",4200
+720,2025-06-18,12:00,take_away,Camarero_1,Jugo,1,800
+721,2025-06-18,12:00,take_away,Camarero_7,"Café Espresso, Tostado","1, 2",3300
+722,2025-06-18,12:00,mesa,Camarero_4,Agua,3,1800
+723,2025-06-18,12:00,take_away,Camarero_2,"Latte, Agua","1, 2",2150
+724,2025-06-18,12:00,mesa,Camarero_1,"Cappuccino, Agua","2, 1",2600
+725,2025-06-18,12:00,mesa,Camarero_4,"Tostado, Cappuccino","2, 1",3600
+726,2025-06-18,16:00,mesa,Camarero_4,"Tostado, Café Espresso, Jugo","3, 1, 2",6200
+727,2025-06-18,16:00,mesa,Camarero_8,Medialuna,3,1500
+728,2025-06-18,16:00,mesa,Camarero_6,"Jugo, Latte","2, 1",2550
+729,2025-06-18,16:00,mesa,Camarero_2,Cappuccino,1,1000
+730,2025-06-18,16:00,mesa,Camarero_8,"Latte, Agua","3, 2",4050
+731,2025-06-18,16:00,mesa,Camarero_3,Medialuna,2,1000
+732,2025-06-18,20:00,mesa,Camarero_8,"Medialuna, Tostado","3, 3",5400
+733,2025-06-18,20:00,mesa,Camarero_3,"Latte, Cappuccino, Jugo","2, 3, 3",7300
+734,2025-06-18,20:00,mesa,Camarero_7,"Latte, Cappuccino, Latte","2, 2, 1",4850
+735,2025-06-18,20:00,mesa,Camarero_4,Medialuna,2,1000
+736,2025-06-18,20:00,take_away,Camarero_8,"Café Espresso, Agua, Jugo","1, 3, 3",4900
+737,2025-06-18,20:00,mesa,Camarero_2,"Latte, Cappuccino, Cappuccino","1, 3, 3",6950
+738,2025-06-18,20:00,mesa,Camarero_4,Latte,1,950
+739,2025-06-18,20:00,mesa,Camarero_8,"Latte, Café Espresso","3, 2",4250
+740,2025-06-18,20:00,take_away,Camarero_2,Cappuccino,3,3000
+741,2025-06-19,08:00,mesa,Camarero_7,"Tostado, Agua, Café Espresso","3, 1, 2",5900
+742,2025-06-19,08:00,take_away,Camarero_2,"Café Espresso, Medialuna, Tostado","3, 1, 2",5200
+743,2025-06-19,08:00,mesa,Camarero_4,"Café Espresso, Jugo, Tostado","1, 1, 3",5400
+744,2025-06-19,08:00,mesa,Camarero_8,"Jugo, Cappuccino, Café Espresso","3, 3, 2",6800
+745,2025-06-19,08:00,take_away,Camarero_7,Latte,1,950
+746,2025-06-19,12:00,take_away,Camarero_6,"Latte, Agua, Tostado","2, 2, 3",7000
+747,2025-06-19,12:00,take_away,Camarero_4,"Jugo, Tostado","3, 2",5000
+748,2025-06-19,12:00,mesa,Camarero_8,"Jugo, Agua","2, 2",2800
+749,2025-06-19,12:00,take_away,Camarero_1,"Café Espresso, Café Espresso","2, 3",3500
+750,2025-06-19,12:00,mesa,Camarero_1,"Café Espresso, Agua","1, 2",1900
+751,2025-06-19,12:00,take_away,Camarero_6,"Tostado, Tostado, Medialuna","1, 1, 2",3600
+752,2025-06-19,12:00,mesa,Camarero_4,Latte,3,2850
+753,2025-06-19,12:00,mesa,Camarero_4,"Jugo, Café Espresso","2, 3",3700
+754,2025-06-19,12:00,mesa,Camarero_2,"Cappuccino, Tostado, Tostado","3, 3, 3",10800
+755,2025-06-19,12:00,take_away,Camarero_7,Jugo,3,2400
+756,2025-06-19,12:00,mesa,Camarero_6,Agua,2,1200
+757,2025-06-19,12:00,take_away,Camarero_1,"Agua, Café Espresso","1, 3",2700
+758,2025-06-19,12:00,take_away,Camarero_6,Cappuccino,1,1000
+759,2025-06-19,16:00,mesa,Camarero_7,"Tostado, Latte","1, 3",4150
+760,2025-06-19,16:00,take_away,Camarero_6,"Medialuna, Café Espresso, Tostado","2, 1, 1",3000
+761,2025-06-19,16:00,mesa,Camarero_2,"Medialuna, Café Espresso","2, 2",2400
+762,2025-06-19,16:00,take_away,Camarero_8,"Tostado, Medialuna, Jugo","2, 3, 1",4900
+763,2025-06-19,16:00,take_away,Camarero_2,"Tostado, Tostado, Agua","3, 1, 1",5800
+764,2025-06-19,16:00,take_away,Camarero_7,"Cappuccino, Agua","1, 1",1600
+765,2025-06-19,16:00,take_away,Camarero_1,"Cappuccino, Cappuccino","3, 3",6000
+766,2025-06-19,16:00,take_away,Camarero_8,Agua,3,1800
+767,2025-06-19,16:00,mesa,Camarero_6,"Café Espresso, Jugo","1, 3",3100
+768,2025-06-19,16:00,mesa,Camarero_1,"Jugo, Café Espresso, Café Espresso","3, 1, 2",4500
+769,2025-06-19,16:00,take_away,Camarero_4,"Jugo, Cappuccino, Tostado","2, 1, 3",6500
+770,2025-06-19,16:00,mesa,Camarero_1,"Tostado, Latte, Tostado","3, 1, 3",8750
+771,2025-06-19,16:00,take_away,Camarero_5,"Agua, Tostado, Latte","1, 2, 1",4150
+772,2025-06-19,20:00,take_away,Camarero_2,"Agua, Café Espresso, Medialuna","3, 3, 2",4900
+773,2025-06-19,20:00,mesa,Camarero_2,"Agua, Medialuna","1, 2",1600
+774,2025-06-19,20:00,take_away,Camarero_8,"Agua, Tostado","1, 1",1900
+775,2025-06-19,20:00,mesa,Camarero_5,Latte,3,2850
+776,2025-06-19,20:00,take_away,Camarero_6,"Cappuccino, Latte","2, 3",4850
+777,2025-06-20,08:00,take_away,Camarero_5,Agua,3,1800
+778,2025-06-20,08:00,mesa,Camarero_4,"Latte, Cappuccino, Agua","1, 3, 2",5150
+779,2025-06-20,08:00,mesa,Camarero_7,"Agua, Medialuna","1, 3",2100
+780,2025-06-20,08:00,mesa,Camarero_6,"Latte, Latte","2, 3",4750
+781,2025-06-20,08:00,take_away,Camarero_5,"Café Espresso, Medialuna, Medialuna","3, 1, 1",3100
+782,2025-06-20,08:00,mesa,Camarero_3,"Agua, Agua","1, 3",2400
+783,2025-06-20,08:00,take_away,Camarero_2,Tostado,3,3900
+784,2025-06-20,08:00,mesa,Camarero_7,"Jugo, Latte","1, 2",2700
+785,2025-06-20,08:00,take_away,Camarero_5,"Tostado, Agua","3, 3",5700
+786,2025-06-20,08:00,mesa,Camarero_1,Café Espresso,1,700
+787,2025-06-20,12:00,take_away,Camarero_2,"Tostado, Latte, Latte","3, 1, 2",6750
+788,2025-06-20,12:00,take_away,Camarero_8,Tostado,3,3900
+789,2025-06-20,12:00,take_away,Camarero_8,Jugo,2,1600
+790,2025-06-20,12:00,mesa,Camarero_7,Latte,1,950
+791,2025-06-20,12:00,mesa,Camarero_4,"Agua, Latte","3, 1",2750
+792,2025-06-20,12:00,mesa,Camarero_8,Agua,2,1200
+793,2025-06-20,12:00,take_away,Camarero_7,"Agua, Cappuccino","1, 3",3600
+794,2025-06-20,12:00,take_away,Camarero_1,"Medialuna, Jugo","3, 3",3900
+795,2025-06-20,12:00,mesa,Camarero_7,"Tostado, Agua","1, 3",3100
+796,2025-06-20,12:00,mesa,Camarero_7,"Cappuccino, Jugo, Agua","1, 2, 2",3800
+797,2025-06-20,12:00,take_away,Camarero_3,"Tostado, Cappuccino","3, 1",4900
+798,2025-06-20,12:00,take_away,Camarero_3,"Tostado, Jugo, Café Espresso","3, 3, 3",8400
+799,2025-06-20,12:00,take_away,Camarero_4,"Cappuccino, Café Espresso","2, 3",4100
+800,2025-06-20,12:00,take_away,Camarero_3,Latte,3,2850
+801,2025-06-20,16:00,mesa,Camarero_6,Medialuna,3,1500
+802,2025-06-20,16:00,mesa,Camarero_7,"Medialuna, Jugo, Agua","3, 1, 2",3500
+803,2025-06-20,16:00,mesa,Camarero_3,Agua,3,1800
+804,2025-06-20,16:00,mesa,Camarero_1,Latte,3,2850
+805,2025-06-20,16:00,take_away,Camarero_3,"Cappuccino, Jugo","2, 2",3600
+806,2025-06-20,16:00,mesa,Camarero_5,Agua,1,600
+807,2025-06-20,20:00,take_away,Camarero_8,"Jugo, Tostado","1, 3",4700
+808,2025-06-20,20:00,mesa,Camarero_8,Medialuna,2,1000
+809,2025-06-20,20:00,take_away,Camarero_5,"Café Espresso, Medialuna","1, 3",2200
+810,2025-06-20,20:00,mesa,Camarero_6,Latte,1,950
+811,2025-06-20,20:00,mesa,Camarero_5,Jugo,3,2400
+812,2025-06-21,08:00,mesa,Camarero_3,Café Espresso,1,700
+813,2025-06-21,08:00,take_away,Camarero_6,"Medialuna, Medialuna, Medialuna","3, 1, 2",3000
+814,2025-06-21,08:00,mesa,Camarero_6,Jugo,2,1600
+815,2025-06-21,08:00,take_away,Camarero_2,Jugo,3,2400
+816,2025-06-21,08:00,take_away,Camarero_7,"Café Espresso, Medialuna","2, 2",2400
+817,2025-06-21,08:00,mesa,Camarero_8,"Latte, Café Espresso, Tostado","3, 3, 1",6250
+818,2025-06-21,08:00,take_away,Camarero_6,"Medialuna, Cappuccino","3, 3",4500
+819,2025-06-21,08:00,mesa,Camarero_4,"Tostado, Tostado, Medialuna","2, 1, 3",5400
+820,2025-06-21,08:00,take_away,Camarero_8,Café Espresso,1,700
+821,2025-06-21,08:00,mesa,Camarero_6,"Jugo, Jugo, Agua","2, 1, 2",3600
+822,2025-06-21,12:00,mesa,Camarero_5,Medialuna,3,1500
+823,2025-06-21,12:00,take_away,Camarero_6,Cappuccino,3,3000
+824,2025-06-21,12:00,mesa,Camarero_7,Medialuna,2,1000
+825,2025-06-21,12:00,mesa,Camarero_8,Latte,2,1900
+826,2025-06-21,12:00,take_away,Camarero_3,Medialuna,2,1000
+827,2025-06-21,12:00,take_away,Camarero_5,"Agua, Tostado, Jugo","3, 1, 3",5500
+828,2025-06-21,12:00,take_away,Camarero_5,"Tostado, Latte, Medialuna","2, 1, 1",4050
+829,2025-06-21,12:00,mesa,Camarero_7,"Agua, Medialuna","1, 3",2100
+830,2025-06-21,12:00,mesa,Camarero_5,"Café Espresso, Jugo, Cappuccino","2, 3, 1",4800
+831,2025-06-21,12:00,take_away,Camarero_6,Tostado,1,1300
+832,2025-06-21,12:00,take_away,Camarero_1,"Latte, Cappuccino","1, 2",2950
+833,2025-06-21,12:00,mesa,Camarero_8,Tostado,1,1300
+834,2025-06-21,12:00,mesa,Camarero_5,Cappuccino,2,2000
+835,2025-06-21,16:00,mesa,Camarero_3,Jugo,3,2400
+836,2025-06-21,16:00,mesa,Camarero_1,"Café Espresso, Cappuccino, Agua","1, 1, 2",2900
+837,2025-06-21,16:00,mesa,Camarero_5,"Tostado, Café Espresso","3, 3",6000
+838,2025-06-21,16:00,mesa,Camarero_5,"Jugo, Medialuna, Latte","1, 1, 2",3200
+839,2025-06-21,16:00,take_away,Camarero_2,"Medialuna, Latte","1, 2",2400
+840,2025-06-21,16:00,mesa,Camarero_3,"Tostado, Café Espresso, Tostado","3, 2, 2",7900
+841,2025-06-21,16:00,take_away,Camarero_1,"Latte, Café Espresso, Medialuna","2, 3, 2",5000
+842,2025-06-21,16:00,mesa,Camarero_1,Tostado,3,3900
+843,2025-06-21,16:00,mesa,Camarero_8,"Café Espresso, Cappuccino","1, 3",3700
+844,2025-06-21,16:00,take_away,Camarero_2,"Cappuccino, Latte","3, 3",5850
+845,2025-06-21,20:00,mesa,Camarero_8,Jugo,3,2400
+846,2025-06-21,20:00,mesa,Camarero_4,"Cappuccino, Medialuna","2, 2",3000
+847,2025-06-21,20:00,mesa,Camarero_5,Agua,3,1800
+848,2025-06-21,20:00,take_away,Camarero_8,"Latte, Agua","2, 2",3100
+849,2025-06-21,20:00,take_away,Camarero_6,Café Espresso,1,700
+850,2025-06-21,20:00,take_away,Camarero_3,"Jugo, Latte","2, 3",4450
+851,2025-06-21,20:00,mesa,Camarero_2,"Jugo, Jugo","2, 3",4000
+852,2025-06-21,20:00,take_away,Camarero_8,"Tostado, Medialuna, Latte","1, 3, 1",3750
+853,2025-06-21,20:00,take_away,Camarero_7,Cappuccino,3,3000
+854,2025-06-21,20:00,take_away,Camarero_8,"Jugo, Tostado, Latte","3, 3, 1",7250
+855,2025-06-21,20:00,mesa,Camarero_7,"Medialuna, Cappuccino, Café Espresso","2, 1, 2",3400
+856,2025-06-21,20:00,mesa,Camarero_1,"Café Espresso, Jugo, Jugo","2, 2, 2",4600
+857,2025-06-22,08:00,mesa,Camarero_1,Agua,3,1800
+858,2025-06-22,08:00,mesa,Camarero_4,"Latte, Tostado, Cappuccino","3, 2, 1",6450
+859,2025-06-22,08:00,take_away,Camarero_6,"Tostado, Agua","2, 2",3800
+860,2025-06-22,08:00,mesa,Camarero_6,"Café Espresso, Agua, Cappuccino","1, 2, 1",2900
+861,2025-06-22,08:00,mesa,Camarero_2,Medialuna,2,1000
+862,2025-06-22,08:00,take_away,Camarero_7,Latte,3,2850
+863,2025-06-22,12:00,take_away,Camarero_3,"Cappuccino, Cappuccino, Tostado","3, 1, 2",6600
+864,2025-06-22,12:00,mesa,Camarero_3,"Cappuccino, Agua, Jugo","1, 2, 3",4600
+865,2025-06-22,12:00,mesa,Camarero_3,Café Espresso,1,700
+866,2025-06-22,12:00,take_away,Camarero_7,"Tostado, Agua, Café Espresso","3, 2, 2",6500
+867,2025-06-22,12:00,mesa,Camarero_6,"Tostado, Tostado","2, 2",5200
+868,2025-06-22,12:00,mesa,Camarero_8,Cappuccino,1,1000
+869,2025-06-22,12:00,mesa,Camarero_8,"Tostado, Cappuccino, Tostado","2, 1, 1",4900
+870,2025-06-22,12:00,take_away,Camarero_2,Medialuna,3,1500
+871,2025-06-22,12:00,mesa,Camarero_2,"Jugo, Agua, Agua","2, 2, 3",4600
+872,2025-06-22,12:00,mesa,Camarero_2,Tostado,3,3900
+873,2025-06-22,12:00,take_away,Camarero_8,"Café Espresso, Cappuccino, Jugo","2, 2, 3",5800
+874,2025-06-22,12:00,take_away,Camarero_3,"Cappuccino, Agua","2, 2",3200
+875,2025-06-22,12:00,mesa,Camarero_8,"Agua, Jugo, Jugo","3, 2, 1",4200
+876,2025-06-22,12:00,mesa,Camarero_8,"Café Espresso, Agua, Jugo","3, 1, 2",4300
+877,2025-06-22,12:00,mesa,Camarero_5,Tostado,2,2600
+878,2025-06-22,16:00,take_away,Camarero_3,"Agua, Café Espresso","1, 3",2700
+879,2025-06-22,16:00,mesa,Camarero_3,"Tostado, Jugo, Latte","3, 1, 2",6600
+880,2025-06-22,16:00,mesa,Camarero_8,"Agua, Agua","3, 1",2400
+881,2025-06-22,16:00,take_away,Camarero_4,"Latte, Tostado","3, 1",4150
+882,2025-06-22,16:00,take_away,Camarero_1,Medialuna,1,500
+883,2025-06-22,16:00,mesa,Camarero_4,"Cappuccino, Cappuccino","3, 3",6000
+884,2025-06-22,16:00,take_away,Camarero_8,"Medialuna, Tostado, Latte","2, 1, 2",4200
+885,2025-06-22,20:00,take_away,Camarero_5,"Medialuna, Café Espresso, Agua","3, 2, 2",4100
+886,2025-06-22,20:00,take_away,Camarero_7,"Latte, Café Espresso","3, 3",4950
+887,2025-06-22,20:00,take_away,Camarero_3,"Jugo, Jugo, Medialuna","1, 3, 2",4200
+888,2025-06-22,20:00,take_away,Camarero_2,"Café Espresso, Café Espresso, Café Espresso","2, 1, 3",4200
+889,2025-06-22,20:00,take_away,Camarero_1,"Latte, Latte","1, 1",1900
+890,2025-06-22,20:00,mesa,Camarero_4,Agua,3,1800
+891,2025-06-22,20:00,mesa,Camarero_3,"Agua, Café Espresso, Medialuna","2, 3, 3",4800
+892,2025-06-22,20:00,mesa,Camarero_5,"Latte, Cappuccino, Medialuna","1, 3, 2",4950
+893,2025-06-22,20:00,take_away,Camarero_1,"Agua, Jugo, Cappuccino","1, 1, 2",3400
+894,2025-06-22,20:00,take_away,Camarero_8,"Cappuccino, Café Espresso","2, 1",2700
+895,2025-06-22,20:00,mesa,Camarero_8,"Agua, Latte","2, 1",2150
+896,2025-06-23,08:00,mesa,Camarero_2,"Jugo, Latte, Medialuna","2, 3, 2",5450
+897,2025-06-23,08:00,mesa,Camarero_5,Café Espresso,3,2100
+898,2025-06-23,08:00,take_away,Camarero_1,Agua,1,600
+899,2025-06-23,08:00,mesa,Camarero_8,"Cappuccino, Latte, Cappuccino","2, 3, 1",5850
+900,2025-06-23,08:00,take_away,Camarero_4,"Cappuccino, Jugo","1, 3",3400
+901,2025-06-23,08:00,mesa,Camarero_6,"Agua, Jugo","2, 1",2000
+902,2025-06-23,12:00,take_away,Camarero_6,"Café Espresso, Agua","3, 1",2700
+903,2025-06-23,12:00,take_away,Camarero_4,Jugo,2,1600
+904,2025-06-23,12:00,mesa,Camarero_6,"Café Espresso, Cappuccino, Latte","3, 2, 1",5050
+905,2025-06-23,12:00,take_away,Camarero_4,Agua,2,1200
+906,2025-06-23,12:00,mesa,Camarero_4,Latte,3,2850
+907,2025-06-23,12:00,take_away,Camarero_8,"Café Espresso, Tostado","2, 2",4000
+908,2025-06-23,12:00,mesa,Camarero_1,Cappuccino,2,2000
+909,2025-06-23,12:00,take_away,Camarero_8,Latte,3,2850
+910,2025-06-23,12:00,mesa,Camarero_1,"Medialuna, Agua, Café Espresso","1, 2, 3",3800
+911,2025-06-23,12:00,take_away,Camarero_5,"Café Espresso, Medialuna, Café Espresso","1, 3, 1",2900
+912,2025-06-23,16:00,take_away,Camarero_4,"Latte, Medialuna, Jugo","1, 1, 2",3050
+913,2025-06-23,16:00,mesa,Camarero_7,Cappuccino,3,3000
+914,2025-06-23,16:00,take_away,Camarero_3,Agua,3,1800
+915,2025-06-23,16:00,take_away,Camarero_3,Jugo,3,2400
+916,2025-06-23,16:00,take_away,Camarero_7,Café Espresso,1,700
+917,2025-06-23,16:00,mesa,Camarero_2,"Cappuccino, Latte, Latte","3, 1, 1",4900
+918,2025-06-23,20:00,take_away,Camarero_2,Café Espresso,2,1400
+919,2025-06-23,20:00,mesa,Camarero_5,Latte,1,950
+920,2025-06-23,20:00,take_away,Camarero_5,"Jugo, Jugo, Medialuna","1, 1, 3",3100
+921,2025-06-23,20:00,take_away,Camarero_3,"Latte, Latte","3, 1",3800
+922,2025-06-23,20:00,take_away,Camarero_4,"Agua, Medialuna, Jugo","2, 2, 1",3000
+923,2025-06-23,20:00,mesa,Camarero_6,Agua,1,600
+924,2025-06-23,20:00,mesa,Camarero_4,"Jugo, Medialuna","2, 1",2100
+925,2025-06-23,20:00,mesa,Camarero_8,Medialuna,2,1000
+926,2025-06-23,20:00,mesa,Camarero_1,Medialuna,1,500
+927,2025-06-23,20:00,take_away,Camarero_1,"Latte, Latte","3, 2",4750
+928,2025-06-23,20:00,mesa,Camarero_2,"Café Espresso, Tostado, Latte","1, 2, 3",6150
+929,2025-06-23,20:00,mesa,Camarero_6,Jugo,3,2400
+930,2025-06-23,20:00,take_away,Camarero_4,Jugo,2,1600
+931,2025-06-23,20:00,mesa,Camarero_7,"Latte, Latte","2, 1",2850
+932,2025-06-23,20:00,mesa,Camarero_1,Tostado,2,2600
+933,2025-06-24,08:00,mesa,Camarero_3,Agua,2,1200
+934,2025-06-24,08:00,take_away,Camarero_5,"Café Espresso, Jugo","3, 2",3700
+935,2025-06-24,08:00,mesa,Camarero_3,"Café Espresso, Medialuna","1, 2",1700
+936,2025-06-24,08:00,mesa,Camarero_5,"Tostado, Latte","2, 1",3550
+937,2025-06-24,08:00,mesa,Camarero_7,"Agua, Agua, Medialuna","3, 1, 1",2900
+938,2025-06-24,08:00,take_away,Camarero_5,Medialuna,2,1000
+939,2025-06-24,08:00,mesa,Camarero_3,"Cappuccino, Agua, Latte","2, 3, 1",4750
+940,2025-06-24,08:00,mesa,Camarero_1,"Agua, Café Espresso","2, 3",3300
+941,2025-06-24,08:00,take_away,Camarero_4,"Cappuccino, Jugo, Medialuna","1, 2, 2",3600
+942,2025-06-24,08:00,mesa,Camarero_5,"Jugo, Medialuna, Cappuccino","1, 1, 2",3300
+943,2025-06-24,08:00,mesa,Camarero_1,"Agua, Café Espresso, Medialuna","1, 3, 2",3700
+944,2025-06-24,12:00,take_away,Camarero_3,Agua,2,1200
+945,2025-06-24,12:00,take_away,Camarero_6,"Tostado, Medialuna, Agua","1, 2, 3",4100
+946,2025-06-24,12:00,mesa,Camarero_4,"Cappuccino, Latte","3, 3",5850
+947,2025-06-24,12:00,mesa,Camarero_2,"Agua, Jugo, Café Espresso","3, 2, 1",4100
+948,2025-06-24,12:00,take_away,Camarero_2,"Tostado, Café Espresso","2, 1",3300
+949,2025-06-24,12:00,mesa,Camarero_2,Agua,1,600
+950,2025-06-24,12:00,take_away,Camarero_6,"Agua, Medialuna, Agua","1, 3, 1",2700
+951,2025-06-24,12:00,take_away,Camarero_6,"Tostado, Cappuccino","1, 1",2300
+952,2025-06-24,12:00,take_away,Camarero_5,"Tostado, Tostado","1, 2",3900
+953,2025-06-24,12:00,take_away,Camarero_2,"Cappuccino, Medialuna, Medialuna","1, 1, 2",2500
+954,2025-06-24,12:00,mesa,Camarero_3,"Agua, Cappuccino","1, 1",1600
+955,2025-06-24,12:00,take_away,Camarero_3,Medialuna,2,1000
+956,2025-06-24,16:00,mesa,Camarero_6,"Cappuccino, Medialuna","1, 2",2000
+957,2025-06-24,16:00,take_away,Camarero_1,"Jugo, Café Espresso","1, 1",1500
+958,2025-06-24,16:00,mesa,Camarero_8,"Medialuna, Cappuccino, Cappuccino","3, 2, 2",5500
+959,2025-06-24,16:00,take_away,Camarero_5,"Tostado, Agua","2, 1",3200
+960,2025-06-24,16:00,mesa,Camarero_6,"Cappuccino, Cappuccino","1, 1",2000
+961,2025-06-24,16:00,take_away,Camarero_5,"Agua, Medialuna","1, 3",2100
+962,2025-06-24,16:00,mesa,Camarero_3,Jugo,3,2400
+963,2025-06-24,16:00,mesa,Camarero_3,Café Espresso,2,1400
+964,2025-06-24,20:00,take_away,Camarero_6,"Latte, Tostado","1, 3",4850
+965,2025-06-24,20:00,take_away,Camarero_3,Cappuccino,3,3000
+966,2025-06-24,20:00,take_away,Camarero_8,Agua,2,1200
+967,2025-06-24,20:00,mesa,Camarero_6,"Agua, Latte","3, 3",4650
+968,2025-06-24,20:00,take_away,Camarero_3,"Agua, Agua","3, 3",3600
+969,2025-06-24,20:00,take_away,Camarero_2,"Medialuna, Jugo","1, 1",1300
+970,2025-06-24,20:00,take_away,Camarero_8,Cappuccino,1,1000
+971,2025-06-24,20:00,take_away,Camarero_4,Cappuccino,3,3000
+972,2025-06-24,20:00,mesa,Camarero_2,"Latte, Café Espresso","2, 3",4000
+973,2025-06-24,20:00,take_away,Camarero_1,Tostado,3,3900
+974,2025-06-24,20:00,take_away,Camarero_6,"Latte, Jugo","2, 2",3500
+975,2025-06-24,20:00,mesa,Camarero_2,"Cappuccino, Cappuccino","2, 3",5000
+976,2025-06-25,08:00,take_away,Camarero_7,"Agua, Jugo, Cappuccino","3, 2, 3",6400
+977,2025-06-25,08:00,mesa,Camarero_7,"Medialuna, Latte, Cappuccino","3, 2, 1",4400
+978,2025-06-25,08:00,mesa,Camarero_7,Cappuccino,2,2000
+979,2025-06-25,08:00,mesa,Camarero_5,"Tostado, Tostado, Agua","1, 1, 2",3800
+980,2025-06-25,08:00,take_away,Camarero_5,Jugo,2,1600
+981,2025-06-25,08:00,take_away,Camarero_8,"Jugo, Latte, Jugo","1, 2, 2",4300
+982,2025-06-25,08:00,mesa,Camarero_1,"Medialuna, Cappuccino, Latte","3, 3, 1",5450
+983,2025-06-25,08:00,mesa,Camarero_6,"Tostado, Agua","3, 3",5700
+984,2025-06-25,12:00,take_away,Camarero_1,"Tostado, Latte, Medialuna","3, 1, 2",5850
+985,2025-06-25,12:00,take_away,Camarero_6,Medialuna,1,500
+986,2025-06-25,12:00,take_away,Camarero_1,"Café Espresso, Latte, Latte","2, 3, 2",6150
+987,2025-06-25,12:00,take_away,Camarero_3,"Tostado, Agua","3, 1",4500
+988,2025-06-25,12:00,mesa,Camarero_6,"Jugo, Tostado, Agua","3, 2, 2",6200
+989,2025-06-25,12:00,mesa,Camarero_8,"Medialuna, Jugo, Café Espresso","3, 2, 2",4500
+990,2025-06-25,12:00,take_away,Camarero_4,"Agua, Latte","1, 1",1550
+991,2025-06-25,12:00,mesa,Camarero_2,"Medialuna, Jugo, Tostado","3, 3, 3",7800
+992,2025-06-25,12:00,take_away,Camarero_8,"Agua, Café Espresso","1, 1",1300
+993,2025-06-25,12:00,take_away,Camarero_6,"Medialuna, Café Espresso","2, 3",3100
+994,2025-06-25,12:00,mesa,Camarero_4,"Cappuccino, Jugo, Café Espresso","1, 3, 1",4100
+995,2025-06-25,12:00,take_away,Camarero_7,Latte,1,950
+996,2025-06-25,12:00,mesa,Camarero_7,Café Espresso,2,1400
+997,2025-06-25,12:00,mesa,Camarero_1,Café Espresso,3,2100
+998,2025-06-25,16:00,mesa,Camarero_2,"Café Espresso, Cappuccino","1, 1",1700
+999,2025-06-25,16:00,mesa,Camarero_5,"Agua, Latte, Cappuccino","1, 1, 3",4550
+1000,2025-06-25,16:00,take_away,Camarero_4,"Latte, Tostado","3, 3",6750
+1001,2025-06-25,16:00,mesa,Camarero_4,Jugo,1,800
+1002,2025-06-25,16:00,mesa,Camarero_2,"Latte, Jugo","1, 3",3350
+1003,2025-06-25,16:00,mesa,Camarero_2,"Jugo, Tostado, Medialuna","1, 2, 3",4900
+1004,2025-06-25,16:00,mesa,Camarero_7,"Agua, Cappuccino","3, 1",2800
+1005,2025-06-25,16:00,mesa,Camarero_6,"Café Espresso, Café Espresso","1, 2",2100
+1006,2025-06-25,16:00,take_away,Camarero_5,"Jugo, Café Espresso, Tostado","2, 2, 2",5600
+1007,2025-06-25,16:00,take_away,Camarero_7,Tostado,2,2600
+1008,2025-06-25,16:00,mesa,Camarero_6,Agua,2,1200
+1009,2025-06-25,16:00,mesa,Camarero_2,Agua,2,1200
+1010,2025-06-25,20:00,take_away,Camarero_2,"Medialuna, Café Espresso, Latte","2, 3, 3",5950
+1011,2025-06-25,20:00,mesa,Camarero_6,Cappuccino,1,1000
+1012,2025-06-25,20:00,mesa,Camarero_5,"Jugo, Cappuccino, Latte","2, 3, 2",6500
+1013,2025-06-25,20:00,take_away,Camarero_5,"Agua, Cappuccino, Medialuna","2, 2, 3",4700
+1014,2025-06-25,20:00,mesa,Camarero_3,"Café Espresso, Latte","2, 1",2350
+1015,2025-06-25,20:00,mesa,Camarero_8,Jugo,1,800
+1016,2025-06-25,20:00,mesa,Camarero_6,Cappuccino,3,3000
+1017,2025-06-25,20:00,mesa,Camarero_8,"Medialuna, Café Espresso","1, 3",2600
+1018,2025-06-25,20:00,take_away,Camarero_8,Cappuccino,2,2000
+1019,2025-06-25,20:00,take_away,Camarero_7,"Cappuccino, Agua, Tostado","1, 2, 1",3500
+1020,2025-06-25,20:00,take_away,Camarero_3,"Jugo, Tostado","1, 1",2100
+1021,2025-06-26,08:00,take_away,Camarero_8,"Latte, Tostado, Cappuccino","2, 2, 1",5500
+1022,2025-06-26,08:00,take_away,Camarero_5,"Tostado, Latte","1, 2",3200
+1023,2025-06-26,08:00,take_away,Camarero_1,"Agua, Medialuna, Cappuccino","2, 2, 1",3200
+1024,2025-06-26,08:00,mesa,Camarero_1,Jugo,2,1600
+1025,2025-06-26,08:00,take_away,Camarero_6,"Café Espresso, Cappuccino","2, 2",3400
+1026,2025-06-26,08:00,mesa,Camarero_5,"Latte, Latte, Cappuccino","1, 3, 1",4800
+1027,2025-06-26,08:00,mesa,Camarero_7,"Latte, Tostado","1, 2",3550
+1028,2025-06-26,08:00,take_away,Camarero_7,"Café Espresso, Tostado","1, 2",3300
+1029,2025-06-26,08:00,take_away,Camarero_4,"Medialuna, Jugo","1, 3",2900
+1030,2025-06-26,08:00,take_away,Camarero_5,"Tostado, Jugo","2, 1",3400
+1031,2025-06-26,08:00,take_away,Camarero_4,"Latte, Medialuna","1, 3",2450
+1032,2025-06-26,08:00,take_away,Camarero_2,"Café Espresso, Agua","2, 1",2000
+1033,2025-06-26,08:00,mesa,Camarero_6,"Cappuccino, Café Espresso, Jugo","2, 2, 1",4200
+1034,2025-06-26,12:00,take_away,Camarero_5,"Jugo, Tostado, Tostado","1, 2, 2",6000
+1035,2025-06-26,12:00,take_away,Camarero_8,"Jugo, Latte, Café Espresso","3, 3, 1",5950
+1036,2025-06-26,12:00,mesa,Camarero_7,"Agua, Jugo, Tostado","3, 3, 3",8100
+1037,2025-06-26,12:00,mesa,Camarero_7,"Latte, Tostado, Latte","3, 3, 2",8650
+1038,2025-06-26,12:00,take_away,Camarero_7,"Agua, Agua","3, 1",2400
+1039,2025-06-26,12:00,take_away,Camarero_7,"Medialuna, Latte","3, 1",2450
+1040,2025-06-26,16:00,mesa,Camarero_5,Latte,1,950
+1041,2025-06-26,16:00,take_away,Camarero_4,"Tostado, Tostado","3, 1",5200
+1042,2025-06-26,16:00,mesa,Camarero_3,"Café Espresso, Latte","2, 3",4250
+1043,2025-06-26,16:00,mesa,Camarero_5,"Tostado, Café Espresso, Agua","1, 2, 3",4500
+1044,2025-06-26,16:00,mesa,Camarero_3,"Agua, Medialuna","1, 2",1600
+1045,2025-06-26,16:00,mesa,Camarero_2,Tostado,3,3900
+1046,2025-06-26,16:00,take_away,Camarero_6,"Agua, Latte","1, 2",2500
+1047,2025-06-26,16:00,take_away,Camarero_5,"Jugo, Agua, Latte","1, 1, 1",2350
+1048,2025-06-26,20:00,take_away,Camarero_2,"Agua, Café Espresso","3, 2",3200
+1049,2025-06-26,20:00,take_away,Camarero_6,"Cappuccino, Medialuna, Agua","1, 2, 2",3200
+1050,2025-06-26,20:00,take_away,Camarero_1,Medialuna,3,1500
+1051,2025-06-26,20:00,mesa,Camarero_6,"Agua, Medialuna, Latte","2, 2, 3",5050
+1052,2025-06-26,20:00,mesa,Camarero_2,"Agua, Agua, Cappuccino","2, 2, 2",4400
+1053,2025-06-26,20:00,mesa,Camarero_6,"Latte, Agua","2, 3",3700
+1054,2025-06-26,20:00,take_away,Camarero_8,Latte,1,950
+1055,2025-06-26,20:00,take_away,Camarero_5,"Cappuccino, Jugo, Jugo","1, 1, 3",4200
+1056,2025-06-26,20:00,mesa,Camarero_6,"Cappuccino, Jugo","3, 3",5400
+1057,2025-06-26,20:00,take_away,Camarero_3,"Café Espresso, Café Espresso, Medialuna","3, 2, 3",5000
+1058,2025-06-26,20:00,mesa,Camarero_2,"Latte, Cappuccino","3, 1",3850
+1059,2025-06-26,20:00,mesa,Camarero_3,Tostado,3,3900
+1060,2025-06-27,08:00,take_away,Camarero_3,"Tostado, Agua","1, 2",2500
+1061,2025-06-27,08:00,take_away,Camarero_7,"Latte, Cappuccino","1, 2",2950
+1062,2025-06-27,08:00,mesa,Camarero_4,Agua,3,1800
+1063,2025-06-27,08:00,mesa,Camarero_7,"Latte, Medialuna","1, 1",1450
+1064,2025-06-27,08:00,take_away,Camarero_7,"Latte, Café Espresso, Cappuccino","3, 1, 1",4550
+1065,2025-06-27,08:00,take_away,Camarero_8,"Tostado, Latte, Latte","2, 2, 3",7350
+1066,2025-06-27,08:00,take_away,Camarero_4,Tostado,1,1300
+1067,2025-06-27,08:00,take_away,Camarero_5,"Medialuna, Cappuccino, Cappuccino","1, 1, 2",3500
+1068,2025-06-27,08:00,mesa,Camarero_1,"Tostado, Latte, Medialuna","3, 2, 1",6300
+1069,2025-06-27,08:00,take_away,Camarero_7,Agua,3,1800
+1070,2025-06-27,08:00,mesa,Camarero_1,"Cappuccino, Cappuccino, Medialuna","1, 1, 3",3500
+1071,2025-06-27,08:00,mesa,Camarero_1,"Agua, Tostado","2, 3",5100
+1072,2025-06-27,08:00,mesa,Camarero_6,"Tostado, Cappuccino","2, 3",5600
+1073,2025-06-27,08:00,mesa,Camarero_3,"Café Espresso, Latte, Latte","2, 2, 2",5200
+1074,2025-06-27,12:00,take_away,Camarero_5,"Tostado, Café Espresso, Café Espresso","1, 1, 2",3400
+1075,2025-06-27,12:00,take_away,Camarero_6,"Latte, Agua","3, 2",4050
+1076,2025-06-27,12:00,take_away,Camarero_3,Cappuccino,2,2000
+1077,2025-06-27,12:00,take_away,Camarero_4,Latte,1,950
+1078,2025-06-27,12:00,mesa,Camarero_8,Tostado,1,1300
+1079,2025-06-27,12:00,take_away,Camarero_1,Agua,2,1200
+1080,2025-06-27,16:00,take_away,Camarero_6,"Tostado, Tostado, Café Espresso","3, 1, 1",5900
+1081,2025-06-27,16:00,mesa,Camarero_3,Agua,1,600
+1082,2025-06-27,16:00,take_away,Camarero_3,"Agua, Medialuna, Medialuna","1, 3, 3",3600
+1083,2025-06-27,16:00,take_away,Camarero_2,Latte,2,1900
+1084,2025-06-27,16:00,take_away,Camarero_2,Latte,3,2850
+1085,2025-06-27,16:00,take_away,Camarero_1,"Medialuna, Agua","2, 1",1600
+1086,2025-06-27,16:00,mesa,Camarero_5,"Jugo, Medialuna","2, 3",3100
+1087,2025-06-27,16:00,mesa,Camarero_3,"Agua, Medialuna","2, 2",2200
+1088,2025-06-27,16:00,mesa,Camarero_6,Jugo,2,1600
+1089,2025-06-27,16:00,mesa,Camarero_4,"Café Espresso, Agua, Cappuccino","2, 2, 1",3600
+1090,2025-06-27,16:00,take_away,Camarero_3,Café Espresso,1,700
+1091,2025-06-27,16:00,take_away,Camarero_2,"Latte, Jugo","3, 1",3650
+1092,2025-06-27,20:00,take_away,Camarero_3,"Jugo, Agua","3, 3",4200
+1093,2025-06-27,20:00,take_away,Camarero_5,"Café Espresso, Cappuccino, Latte","2, 2, 2",5300
+1094,2025-06-27,20:00,take_away,Camarero_3,Jugo,2,1600
+1095,2025-06-27,20:00,take_away,Camarero_3,"Cappuccino, Café Espresso, Cappuccino","2, 3, 1",5100
+1096,2025-06-27,20:00,take_away,Camarero_5,"Medialuna, Tostado, Cappuccino","2, 1, 2",4300
+1097,2025-06-27,20:00,mesa,Camarero_4,Medialuna,2,1000
+1098,2025-06-27,20:00,take_away,Camarero_2,"Tostado, Tostado","1, 3",5200
+1099,2025-06-27,20:00,take_away,Camarero_6,"Café Espresso, Medialuna","3, 2",3100
+1100,2025-06-27,20:00,take_away,Camarero_3,"Café Espresso, Tostado, Café Espresso","3, 2, 1",5400
+1101,2025-06-28,08:00,mesa,Camarero_5,Cappuccino,3,3000
+1102,2025-06-28,08:00,take_away,Camarero_4,"Jugo, Jugo, Tostado","2, 2, 1",4500
+1103,2025-06-28,08:00,mesa,Camarero_5,Jugo,3,2400
+1104,2025-06-28,08:00,mesa,Camarero_3,"Tostado, Café Espresso","1, 1",2000
+1105,2025-06-28,08:00,take_away,Camarero_8,"Medialuna, Agua","3, 3",3300
+1106,2025-06-28,08:00,take_away,Camarero_5,"Jugo, Medialuna, Medialuna","3, 3, 2",4900
+1107,2025-06-28,08:00,mesa,Camarero_2,Café Espresso,1,700
+1108,2025-06-28,08:00,mesa,Camarero_4,"Agua, Agua, Latte","3, 1, 3",5250
+1109,2025-06-28,08:00,take_away,Camarero_7,"Agua, Tostado, Café Espresso","2, 1, 2",3900
+1110,2025-06-28,08:00,mesa,Camarero_8,Latte,1,950
+1111,2025-06-28,08:00,take_away,Camarero_5,"Café Espresso, Tostado","1, 1",2000
+1112,2025-06-28,12:00,take_away,Camarero_7,Cappuccino,1,1000
+1113,2025-06-28,12:00,take_away,Camarero_1,"Jugo, Medialuna","3, 2",3400
+1114,2025-06-28,12:00,take_away,Camarero_8,"Tostado, Medialuna","3, 3",5400
+1115,2025-06-28,12:00,mesa,Camarero_7,"Café Espresso, Café Espresso, Medialuna","3, 1, 2",3800
+1116,2025-06-28,12:00,take_away,Camarero_6,Tostado,3,3900
+1117,2025-06-28,12:00,take_away,Camarero_4,"Tostado, Latte, Jugo","2, 2, 2",6100
+1118,2025-06-28,12:00,mesa,Camarero_3,"Agua, Cappuccino, Medialuna","3, 3, 2",5800
+1119,2025-06-28,12:00,take_away,Camarero_6,"Medialuna, Agua, Jugo","3, 3, 3",5700
+1120,2025-06-28,12:00,take_away,Camarero_2,Medialuna,2,1000
+1121,2025-06-28,12:00,take_away,Camarero_8,Latte,1,950
+1122,2025-06-28,12:00,mesa,Camarero_1,"Agua, Tostado","1, 1",1900
+1123,2025-06-28,12:00,mesa,Camarero_1,"Agua, Cappuccino","1, 1",1600
+1124,2025-06-28,12:00,mesa,Camarero_4,"Tostado, Medialuna","1, 3",2800
+1125,2025-06-28,12:00,take_away,Camarero_5,"Agua, Jugo","1, 3",3000
+1126,2025-06-28,16:00,mesa,Camarero_2,"Café Espresso, Agua, Jugo","1, 1, 3",3700
+1127,2025-06-28,16:00,mesa,Camarero_5,"Café Espresso, Medialuna, Agua","2, 1, 3",3700
+1128,2025-06-28,16:00,take_away,Camarero_2,"Tostado, Agua, Latte","2, 2, 1",4750
+1129,2025-06-28,16:00,mesa,Camarero_8,"Agua, Jugo","1, 1",1400
+1130,2025-06-28,16:00,take_away,Camarero_7,"Tostado, Café Espresso","2, 3",4700
+1131,2025-06-28,16:00,take_away,Camarero_7,"Medialuna, Latte, Jugo","2, 1, 1",2750
+1132,2025-06-28,16:00,take_away,Camarero_6,"Agua, Agua","3, 3",3600
+1133,2025-06-28,20:00,take_away,Camarero_2,Jugo,3,2400
+1134,2025-06-28,20:00,mesa,Camarero_1,"Cappuccino, Agua","1, 2",2200
+1135,2025-06-28,20:00,take_away,Camarero_3,Medialuna,3,1500
+1136,2025-06-28,20:00,mesa,Camarero_5,"Agua, Jugo, Agua","2, 2, 2",4000
+1137,2025-06-28,20:00,take_away,Camarero_3,"Café Espresso, Latte","3, 3",4950
+1138,2025-06-29,08:00,take_away,Camarero_6,"Latte, Tostado, Jugo","3, 2, 3",7850
+1139,2025-06-29,08:00,take_away,Camarero_1,Agua,1,600
+1140,2025-06-29,08:00,take_away,Camarero_5,"Jugo, Jugo","1, 3",3200
+1141,2025-06-29,08:00,mesa,Camarero_6,Tostado,2,2600
+1142,2025-06-29,08:00,mesa,Camarero_5,Café Espresso,3,2100
+1143,2025-06-29,08:00,mesa,Camarero_1,"Jugo, Agua","1, 3",2600
+1144,2025-06-29,08:00,take_away,Camarero_2,"Medialuna, Cappuccino","1, 3",3500
+1145,2025-06-29,08:00,take_away,Camarero_4,"Medialuna, Café Espresso","2, 1",1700
+1146,2025-06-29,08:00,take_away,Camarero_3,"Latte, Jugo","3, 3",5250
+1147,2025-06-29,08:00,take_away,Camarero_2,"Jugo, Café Espresso, Tostado","1, 2, 2",4800
+1148,2025-06-29,08:00,mesa,Camarero_4,"Cappuccino, Cappuccino, Café Espresso","2, 1, 2",4400
+1149,2025-06-29,12:00,mesa,Camarero_7,"Medialuna, Cappuccino","3, 3",4500
+1150,2025-06-29,12:00,take_away,Camarero_3,"Tostado, Cappuccino, Tostado","2, 3, 2",8200
+1151,2025-06-29,12:00,mesa,Camarero_2,"Café Espresso, Medialuna, Café Espresso","3, 3, 3",5700
+1152,2025-06-29,12:00,mesa,Camarero_2,"Tostado, Jugo","3, 2",5500
+1153,2025-06-29,12:00,take_away,Camarero_5,Café Espresso,3,2100
+1154,2025-06-29,12:00,mesa,Camarero_1,"Latte, Cappuccino, Agua","2, 2, 2",5100
+1155,2025-06-29,12:00,mesa,Camarero_1,Jugo,2,1600
+1156,2025-06-29,12:00,take_away,Camarero_2,"Latte, Jugo","2, 1",2700
+1157,2025-06-29,12:00,take_away,Camarero_8,Agua,2,1200
+1158,2025-06-29,12:00,take_away,Camarero_3,"Tostado, Cappuccino, Cappuccino","3, 3, 1",7900
+1159,2025-06-29,12:00,take_away,Camarero_2,"Medialuna, Latte","3, 2",3400
+1160,2025-06-29,12:00,take_away,Camarero_8,"Latte, Cappuccino","3, 1",3850
+1161,2025-06-29,16:00,mesa,Camarero_5,Medialuna,3,1500
+1162,2025-06-29,16:00,mesa,Camarero_4,"Tostado, Latte, Medialuna","3, 1, 3",6350
+1163,2025-06-29,16:00,take_away,Camarero_4,"Agua, Café Espresso, Agua","1, 1, 2",2500
+1164,2025-06-29,16:00,mesa,Camarero_7,"Jugo, Medialuna, Café Espresso","3, 3, 2",5300
+1165,2025-06-29,16:00,mesa,Camarero_7,"Agua, Café Espresso","2, 1",1900
+1166,2025-06-29,16:00,mesa,Camarero_5,"Cappuccino, Latte, Café Espresso","1, 3, 1",4550
+1167,2025-06-29,16:00,mesa,Camarero_3,Latte,1,950
+1168,2025-06-29,16:00,take_away,Camarero_1,"Medialuna, Café Espresso","2, 1",1700
+1169,2025-06-29,16:00,mesa,Camarero_5,"Cappuccino, Cappuccino","2, 2",4000
+1170,2025-06-29,20:00,mesa,Camarero_4,Latte,3,2850
+1171,2025-06-29,20:00,take_away,Camarero_7,"Jugo, Cappuccino, Café Espresso","1, 2, 2",4200
+1172,2025-06-29,20:00,mesa,Camarero_2,"Café Espresso, Medialuna","1, 2",1700
+1173,2025-06-29,20:00,mesa,Camarero_4,"Medialuna, Café Espresso, Tostado","2, 1, 3",5600
+1174,2025-06-29,20:00,mesa,Camarero_7,"Tostado, Latte","1, 3",4150
+1175,2025-06-29,20:00,take_away,Camarero_5,Café Espresso,2,1400
+1176,2025-06-29,20:00,mesa,Camarero_5,Café Espresso,2,1400
+1177,2025-06-29,20:00,take_away,Camarero_1,"Cappuccino, Cappuccino, Medialuna","3, 3, 2",7000
+1178,2025-06-29,20:00,mesa,Camarero_5,"Tostado, Café Espresso, Café Espresso","3, 1, 1",5300
+1179,2025-06-29,20:00,take_away,Camarero_6,Medialuna,2,1000
+1180,2025-06-29,20:00,take_away,Camarero_6,"Tostado, Latte, Agua","2, 1, 2",4750
+1181,2025-06-30,08:00,mesa,Camarero_7,"Agua, Medialuna, Café Espresso","1, 3, 1",2800
+1182,2025-06-30,08:00,take_away,Camarero_2,"Tostado, Jugo","3, 3",6300
+1183,2025-06-30,08:00,mesa,Camarero_7,"Tostado, Café Espresso, Agua","2, 3, 2",5900
+1184,2025-06-30,08:00,mesa,Camarero_4,"Agua, Café Espresso, Cappuccino","1, 2, 1",3000
+1185,2025-06-30,08:00,mesa,Camarero_5,"Medialuna, Medialuna","1, 1",1000
+1186,2025-06-30,12:00,mesa,Camarero_4,"Agua, Café Espresso","2, 3",3300
+1187,2025-06-30,12:00,mesa,Camarero_7,Agua,3,1800
+1188,2025-06-30,12:00,mesa,Camarero_3,"Tostado, Tostado","3, 1",5200
+1189,2025-06-30,12:00,mesa,Camarero_5,"Café Espresso, Café Espresso, Latte","3, 1, 3",5650
+1190,2025-06-30,12:00,mesa,Camarero_8,"Café Espresso, Agua, Medialuna","3, 2, 3",4800
+1191,2025-06-30,12:00,mesa,Camarero_7,"Medialuna, Agua","1, 2",1700
+1192,2025-06-30,12:00,take_away,Camarero_1,"Café Espresso, Tostado","2, 2",4000
+1193,2025-06-30,12:00,mesa,Camarero_8,Latte,2,1900
+1194,2025-06-30,16:00,mesa,Camarero_4,"Latte, Café Espresso","3, 1",3550
+1195,2025-06-30,16:00,take_away,Camarero_3,Agua,1,600
+1196,2025-06-30,16:00,take_away,Camarero_7,"Café Espresso, Medialuna","1, 2",1700
+1197,2025-06-30,16:00,mesa,Camarero_4,"Jugo, Agua, Jugo","1, 1, 2",3000
+1198,2025-06-30,16:00,take_away,Camarero_4,Jugo,3,2400
+1199,2025-06-30,16:00,mesa,Camarero_1,"Medialuna, Jugo, Medialuna","3, 1, 1",2800
+1200,2025-06-30,16:00,mesa,Camarero_1,"Cappuccino, Jugo","1, 1",1800
+1201,2025-06-30,16:00,take_away,Camarero_7,Cappuccino,3,3000
+1202,2025-06-30,16:00,mesa,Camarero_1,Medialuna,3,1500
+1203,2025-06-30,16:00,take_away,Camarero_1,"Cappuccino, Medialuna","2, 1",2500
+1204,2025-06-30,20:00,take_away,Camarero_6,"Jugo, Agua","3, 1",3000
+1205,2025-06-30,20:00,mesa,Camarero_1,"Tostado, Medialuna","1, 1",1800
+1206,2025-06-30,20:00,mesa,Camarero_6,"Jugo, Latte, Medialuna","3, 3, 2",6250
+1207,2025-06-30,20:00,take_away,Camarero_1,"Jugo, Tostado","1, 1",2100
+1208,2025-06-30,20:00,mesa,Camarero_6,Cappuccino,2,2000
+1209,2025-06-30,20:00,take_away,Camarero_5,"Agua, Jugo, Latte","2, 3, 2",5500
+1210,2025-06-30,20:00,take_away,Camarero_3,Tostado,3,3900
+1211,2025-06-30,20:00,mesa,Camarero_1,Tostado,3,3900
+1212,2025-06-30,20:00,take_away,Camarero_6,"Latte, Latte","1, 1",1900
+1213,2025-06-30,20:00,mesa,Camarero_6,"Tostado, Medialuna, Tostado","3, 2, 3",8800
+1214,2025-06-30,20:00,take_away,Camarero_4,"Cappuccino, Café Espresso","1, 2",2400
+1215,2025-06-30,20:00,mesa,Camarero_6,"Latte, Latte, Medialuna","1, 2, 3",4350

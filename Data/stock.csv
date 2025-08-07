@@ -1,0 +1,8 @@
+producto,stock_inicial,compras_mes,ventas_mes,mermas_mes,stock_final
+Café Espresso,392,118,262,1,247
+Latte,305,191,199,0,297
+Cappuccino,404,107,311,6,194
+Tostado,294,242,299,6,231
+Medialuna,203,129,383,9,-60
+Jugo,385,136,345,5,171
+Agua,205,174,242,7,130
