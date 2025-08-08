@@ -1,4 +1,4 @@
-# Senda-Café-de-Especialidad
+# Senda-Café-de-Especialidad (En desarrollo)
 Analisis de ventas, stock y empleados en determinados períodos.
 
 # ☕ Senda Café - Análisis de Datos
